@@ -17,5 +17,6 @@ Built on FreeCAD (open-source parametric CAD) with a proprietary AI layer.
 
 - **Luka** — Technical lead. Builds the product.
 - **Otar** — Business lead. Strategy, GTM, sales, fundraising.
-- **Nikoloz** — Domain expert. Civil engineer, CTO of Georgian Precast Association.
+- **Nikoloz** — Domain expert. Civil engineer,upcoming CTO of Georgian Precast Association.
+
 

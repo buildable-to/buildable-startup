@@ -8,7 +8,7 @@
 - **Target:** Engineers who produce 2D drawings from 3D models
 
 ## First-Hand Evaluation
-- [ ] Signed up
+- [x] Signed up
 - [ ] Tested drawing generation
 - [ ] Documented output quality
 - [ ] Captured screenshots
@@ -27,3 +27,4 @@ DraftAid is the only other startup focused on 2D drawing automation. Key differe
 
 ## Key Takeaway
 TBD
+

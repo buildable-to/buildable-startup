@@ -27,6 +27,7 @@ TBD ???
 DraftAid is the only other startup focused on 2D drawing automation. Key difference: they derive from 3D models, Buildable generates 2D directly. They are doing 2D drawings for manufacturing parts and engineers, not for construction engineers. 
 
 ## Key Takeaway
-They are just manufacturing part's 2D drawings generator right now and have not expanded for 2 years, but they are growing well in their niche. I don't think they will pivot, because they grew from 10k to 210k drawings yearly in their niche and are not raising more capital extend their functionality. 
+No strong team. They are just manufacturing part's 2D drawings generator right now and have not expanded for 2 years, but they are growing well in their niche. I don't think they will pivot, because they grew from 10k to 210k drawings yearly in their niche and are not raising more capital extend their functionality. 
+
 
 

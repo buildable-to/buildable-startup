@@ -2,9 +2,22 @@
 
 ## What This Repo Is
 
-This is the internal operations repo for Buildable — an AI-native structural engineering tool built on FreeCAD. It contains strategy docs, customer research, pitch materials, competitive intel, and business planning.
+This is the operational hub for Buildable, managed entirely through Claude Code. It contains strategy docs, customer research, pitch materials, competitive intel, and business planning.
+
+Buildable is an AI-native structural engineering tool built on FreeCAD.
 
 **The product codebase lives at:** github.com/buildable-to/Buildable
+
+## How This Repo Works
+
+This repo replaces Jira/Notion/Google Docs. Claude Code is the primary operator:
+
+- **Project management** — GitHub Issues + the [project board](https://github.com/orgs/buildable-to/projects/1) are the single source of truth. Create, update, and track tasks using `gh` CLI. All issues go in `buildable-to/buildable-startup` to keep everything on one board.
+- **Documentation** — All docs live in this repo as markdown. Edit existing files, don't create duplicates.
+- **Competitive intel** — One file per competitor in `competitive/`. Research, sign up, document.
+- **Content** — LinkedIn posts, pitch materials, grant applications — all drafted here.
+
+When a team member opens Claude Code in this repo, `CLAUDE.md` provides full context so Claude can operate autonomously — create tasks, update docs, draft content, manage the board.
 
 ## Team
 

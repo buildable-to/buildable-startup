@@ -153,6 +153,36 @@ Key Players: Boral (Australia); Holcim Ltd (Switzerland); Gulf Precast (UAE); Ol
 
 Source: https://www.fortunebusinessinsights.com/precast-concrete-market-103301
 
+Grand View Research: 
+- global precast concrete market size was estimated at USD 117.16 billion in 2025
+- expected to reach USD 191.01 billion by 2033
+- CAGR of 6.4% from 2026 to 2033
+- Asia Pacific dominated the market with the highest revenue share of 40.8% in 2025.
+- The infrastructure segment dominated the market with the highest revenue share of 33.1% in 2025
+
+Key companies: Boral Ltd.; LafargeHolcim; Gulf Precast Concrete Co. LLC; Olson Precast Company; CEMEX S.A.B. de C.V; Forterra Pipe and Precast LLC; Tindall Corporation; Spancrete; Elementbau Osthessen GmbH & Co., ELO KG; GÜlermak A.S.; STECS; LAING O’Rourke; Larsen & Toubro Ltd.
+
+Perplexity: 
+- $145-170B global precast market (2026)
+- Market growing 5-7% CAGR 
+- Asia-Pacific largest region (40%+)
+- Infrastructure highest adoption (30-50%) 
+- Residential adoption increasing
+- In North America, around 20–30% of residential buildings use some precast elements
+- Globally, market reports show residential is ~30–40% of precast demand by end-use
+- In North America, about 30–40% of commercial and industrial buildings use precast components
+- Infrastructure holds ~31–32% of global precast market share; In North America, “most bridges, tunnels, etc. use precast technology”Academic and industry studies consistently find that precast/prefab systems can cut total construction time 50–80% vs conventional, largely because off‑site manufacturing and on‑site work run concurrently.
+
+Salaries of Structural engineers: 
+- A typical US structural engineer earns around $80k–$120k/year, with juniors in the $55k–75k range
+- In Canadian urban markets, structural engineers typically earn ~$58k-$90k range.
+- Germany: average structural engineer ≈€39,960-47,000/year, range ≈€30,000–70,000.
+- UK: intermediate engineers £33–45k, senior £45–60k, principal £60–70k, director‑level up to £120k
+- Netherlands: average ≈€43,802, with most between €36k–62k.
+- China: Average structural engineer:  ~$45k/year; $22k-$66k range.
+- Japan average $37k and range $18k-$57k
+- India average $3.5k
+- Australia range $57k-$85k
 
 ---
 
@@ -224,4 +254,5 @@ Source: https://www.fortunebusinessinsights.com/precast-concrete-market-103301
 - https://www.futuremarketinsights.com/reports/computer-aided-design-cad-market
 - https://www.mordorintelligence.com/industry-reports/engineering-software-market
 - https://techcrunch.com/2025/10/31/yc-alum-adam-raises-4-1m-to-turn-viral-text-to-3d-tool-into-ai-copilot/
+
 

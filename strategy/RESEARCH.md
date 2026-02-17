@@ -137,6 +137,23 @@ Ondsel was a VC-backed startup that tried to commercialize FreeCAD. They **shut 
 - Average engineering team uses 5+ disconnected tools
 - Generative design subsegment growing at ~18% CAGR
 
+## PRECAST CONCRETE MARKET SIZE
+Fortune Business Insights: 
+- The global precast concrete market valued at USD 160.53 billion in 2025
+- projected to grow to USD 170.11 billion in 2026
+- projected to grow to USD 278 billion by 2034
+- CAGR of 6.3% during 2026-2034
+- Asia Pacific dominated with a market share of 39%, $62 billion in 2025
+- Europe is the second largest market set to be valued at USD 33.78 billion in 2026 with a CAGR of 20% during the forecast period (2026-2034)
+- North America is the third largest market anticipated to hold USD 30 billion in 2026
+- China Led the market with a size of USD 42.78 billion in 2026. Residential sector dominates with 55% share of it. 
+- Residential is set to hold 38.75% of the market share; infrastructure - 38.75%; industrial - 6.33%; commercial - 12.66% in 2026.
+
+Key Players: Boral (Australia); Holcim Ltd (Switzerland); Gulf Precast (UAE); Olson Precast Company (U.S.); Larsen & Toubro Limited (India); CEMEX (Mexico); Forterra Building Products Ltd (U.K.); The Wells Companies (U.S); Elementbau Osthessen GmbH & Co., ELO KG (Germany); Bouygues Group (France); Balfour Beatty plc (U.K.); CRH (Ireland); Tindall Corporation (U.S)
+
+Source: https://www.fortunebusinessinsights.com/precast-concrete-market-103301
+
+
 ---
 
 ## What Makes Buildable Unique
@@ -207,3 +224,4 @@ Ondsel was a VC-backed startup that tried to commercialize FreeCAD. They **shut 
 - https://www.futuremarketinsights.com/reports/computer-aided-design-cad-market
 - https://www.mordorintelligence.com/industry-reports/engineering-software-market
 - https://techcrunch.com/2025/10/31/yc-alum-adam-raises-4-1m-to-turn-viral-text-to-3d-tool-into-ai-copilot/
+

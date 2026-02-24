@@ -498,19 +498,13 @@ YC's $500K for 7% gives a Georgian team **2-4 years of runway** vs. 6-12 months 
 4. **US/EU incorporation** — Solve legal/investor concerns from day one
 5. **Solved a universal problem** — Not just a local issue
 
-### The Beachhead Strategy for Buildable
+### The Growth Strategy for Buildable
 
-**Phase 1 — Home Market as Lab (6-18 months):**
+**Phase 1 — Home Market as Lab (2-5 months):**
 Georgia as testing ground. Local customers are accessible (visit their factory in 30 minutes). Iterate fast. Get case studies.
 
-**Phase 2 — Adjacent Markets (12-24 months):**
-Turkey is the key: 85M people, massive precast industry, geographic/cultural proximity, similar price sensitivity. Also: Azerbaijan, Central Asia.
-
-**Phase 3 — Larger Markets (18-36 months):**
-Middle East (Saudi Arabia's NEOM/Vision 2030, UAE), Eastern Europe. Use regional traction for credibility.
-
-**Phase 4 — Global (36+ months):**
-Western Europe (largest precast market), then US. May need local sales presence.
+**Phase 2 — US or Europe expansion (5-12 months):**
+After Georgia we will do some tests, more research, personal connections check and will figure out in which markets to expand.
 
 ---
 
@@ -533,6 +527,9 @@ Western Europe (largest precast market), then US. May need local sales presence.
 **For US/Europe:** per-seat pricing, $200/month per engineer - similar to what they already pay for CAD software, so no new budget category.
 
 ~18,000 precast structural engineers in US = serviceable market of $43M in ARR. Even 10% is $4M+ ARR. Precast market is growing 6% annually. Georgia is first market to validate, then we move to US where willingness to pay is highest.
+
+**Growth Hacking:**
+- selling through job interviews. Targeted companies are ones hiring more structural engineers and growing/high demand on their company (best as they already have budget allocated and searching for it). We apply there, go to interview and tell about our product, to prove we will do technical phase test using only buildable and show them how much time it took VS how much time other applicants took. So that's a way to get product infront of them and show them what it really can. This strategy needs to be tested, but theoritically it's seems great. 
 
 **Considerastions** !!!
 - Per-seat pricing discourages adoption — companies minimize licenses to save money. Per-factory pricing encourages everyone at a plant to use it, and correlates with value (more factories = more projects = more value).
@@ -568,19 +565,18 @@ Western Europe (largest precast market), then US. May need local sales presence.
 
 ### The Thesis (One Sentence)
 
-**Precast structural detailing is a $150B industry where 60% of project time goes to repetitive, template-driven drawing work that AI can automate — and Buildable is the only company combining a mature open-source CAD kernel with deep AI integration to do it.**
+**Precast constrcution market is a $150B industry where 80% of project time goes to repetitive, template-driven drawing work that AI can automate — and Buildable is the only company combining a mature open-source CAD kernel with deep AI integration to do it.**
 
 ### Why This Vertical, Why Now
 
 | Factor | Evidence |
 |--------|----------|
 | **The work is AI-automatable** | Template-driven, rules-based, repetitive but requires domain expertise |
-| **Pain is quantified** | 2 months design vs. 15 days construction — validated by one of Georgia's biggest precast companies |
+| **Pain is quantified** | 2 months design vs. 15 days construction — validated by 7 engineers and 2 executives of Georgia's biggest precast companies |
 | **Buyers exist and are reachable** | Countable buyer base (~300-500 plants per region), industry associations as channels |
 | **Budget exists** | $30K/year on drawing production in Georgia, $100K+ internationally |
 | **Technology is ready** | Claude/GPT-4+ era models handle code generation well, source.py architecture bridges CAD→code gap |
 | **No incumbent owns this** | Tekla is expensive and doesn't automate; no dominant "precast AI" exists |
-| **Expansion path is clear** | Precast → structural steel → general structural → "Cursor for CAD" |
 
 ### The Anti-Ondsel Strategy
 

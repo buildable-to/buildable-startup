@@ -528,25 +528,15 @@ Western Europe (largest precast market), then US. May need local sales presence.
 
 ### Pricing Strategy
 
-**The core tension:** Georgian precast companies budget $500-5,000/year for software. US/European companies budget $20,000-100,000+. You can't anchor to either extreme.
+**Georgia:** Monthly subscription per company. Starting at $500-1000/month in Georgia - roughly what one engineer costs for a few days of work. If we cut drawing time in half, that's an easy yes.
 
-**Two tiers, two buyers** (see [BUSINESS_MODEL.md](BUSINESS_MODEL.md) for full details):
+**For US/Europe:** per-seat pricing, $200/month per engineer - similar to what they already pay for CAD software, so no new budget category.
 
-- **Pro** — $400/month per company (up to 5 users). The engineer's tool. AI detailing, unlimited exports, full element library.
-- **Enterprise** — $2,000-3,000/month per factory. The owner/CTO's platform. Includes the Buildable Portal (element library, templates, project dashboard, standards config, analytics).
+~18,000 precast structural engineers in US = serviceable market of $43M in ARR. Even 10% is $4M+ ARR. Precast market is growing 6% annually. Georgia is first market to validate, then we move to US where willingness to pay is highest.
 
-**Why per company/per factory (not per seat):** Per-seat pricing discourages adoption — companies minimize licenses to save money. Per-factory pricing encourages everyone at a plant to use it, and correlates with value (more factories = more projects = more value).
-
-**Phase 1 (0-10 customers, Georgia):**
-Design partner approach. First 3-5 free, next 5-10 pay $200-300/month (regional pricing). You're learning, not optimizing revenue.
-
-**Phase 2 (10-50 customers, regional expansion):**
-Published Pro tier at $400/month. Regional discounts for Georgia/Turkey through direct sales (never published). First Enterprise pilots at $1,000-1,500/factory.
-
-**Phase 3 (50+ customers, global):**
-Full published pricing. Enterprise at $2,500-3,000+/factory. Annual contracts with 2-month discount for prepayment.
-
-**Geographic pricing:** One public price (Western/US). Regional customers get non-public "partner discounts." Georgia $200-300/mo Pro, Turkey $300-400, Middle East $500-700, Europe/US $500-800. See [BUSINESS_MODEL.md](BUSINESS_MODEL.md) for full breakdown.
+**Considerastions** !!!
+- Per-seat pricing discourages adoption — companies minimize licenses to save money. Per-factory pricing encourages everyone at a plant to use it, and correlates with value (more factories = more projects = more value).
+- Geographic pricing: One public price (Western/US). Regional customers get non-public "partner discounts." Georgia $200-300/mo Pro, Turkey $300-400, Middle East $500-700, Europe/US $500-800.
 
 **Pricing Principles:**
 
@@ -556,7 +546,7 @@ Full published pricing. Enterprise at $2,500-3,000+/factory. Annual contracts wi
 4. **Don't compete on price.** Don't be "cheap Tekla." Be "purpose-built AI structural detailing."
 5. **Annual contracts.** Construction companies plan in project cycles. Aligns with their planning.
 
-### The ROI Story
+### The ROI Story - Theoritical, needs real proof
 
 **Current cost of drawing production in Georgia:**
 - 2 engineers × 2 months × $1,500/month = **$6,000 per project**

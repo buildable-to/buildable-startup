@@ -28,13 +28,13 @@ Fun fact: Cursor's founders originally spent almost a year building AI autocompl
 
 | Company | Funding | Approach | Differentiation |
 |---------|---------|----------|-----------------|
-| **Zoo.dev** (ex-KittyCAD) | $10.1M (Sequoia) | New CAD from scratch, custom language (KCL), custom engine | 300K users, open app layer, proprietary engine |
-| **Adam** (YC W25) | $4.1M | Text-to-parametric-CAD, standalone tool | Viral (10M+ impressions), starting Onshape integration |
+| **Zoo.dev** (ex-KittyCAD) | $10.1M (Sequoia) | Geometry model built by them for mechanical engineering. They have strong investors and access to money | Their engine is built for mechanical engineers. founder team have no experience in construction/architecture |
+| **Adam** (YC W25) | $4.1M | 3D model generation. They made path from idea in our head to the 3D model easier | 3D model generation. They made path from idea in our head to the 3D model easier|
 | **MecAgent** | ~$3M | AI copilot plugin for SolidWorks/CATIA/Fusion/Creo | 10K users in 5 months, interest from Ford/Tesla/Audi |
-| **Leo AI** | $9.7M (Flint, a16z scout) | "Large Mechanical Model" — engineering knowledge copilot | 50K+ users, HP/Siemens/Mobileye clients |
+| **Leo AI** | $9.7M (Flint, a16z scout) | AI CAD for mechanical engineers. They are good in idea/concept testing and parts searching | heir focus is on mechanical engineering. Founders are mechanical engineers and their future goals and features are all about improving quality of 3D models creation |
 | **Backflip AI** | $30M (NEA, a16z) | Scan-to-parametric-CAD (reverse engineering) | Founded by Markforged CEO, Transformer co-inventor as angel |
 | **Hestus** (YC S24) | $1.5M | AI copilot for CAD sketching (Fusion 360 plugin) | Narrow focus, 12x sketch optimization |
-| **DraftAid** (YC) | $500K+ | AI 2D drawing automation from 3D models | "GitHub Copilot for CAD drawings" |
+| **DraftAid** (YC) | $500K+ | Automatically create 2D drawings from 3D models in minutes with minimal human interference | they derive from 3D models, Buildable generates 2D directly. They are doing 2D drawings for manufacturing parts and engineers, not for construction engineers |
 | **Aurorin CAD** | Unknown | New AI-native CAD with custom kernel | Early stage |
 
 **Total VC in AI-CAD startups: ~$58M+** (excluding incumbents' internal R&D)
@@ -184,6 +184,8 @@ Salaries of Structural engineers:
 - India average $3.5k
 - Australia range $57k-$85k
 
+~18,000 precast structural engineers in US = serviceable market of $43M in ARR. Even 10% is $4M+ ARR. Precast market is growing 6% annually. Georgia is first market to validate, then we move to US where willingness to pay is highest. 
+
 ---
 
 ## What Makes Buildable Unique
@@ -254,5 +256,6 @@ Salaries of Structural engineers:
 - https://www.futuremarketinsights.com/reports/computer-aided-design-cad-market
 - https://www.mordorintelligence.com/industry-reports/engineering-software-market
 - https://techcrunch.com/2025/10/31/yc-alum-adam-raises-4-1m-to-turn-viral-text-to-3d-tool-into-ai-copilot/
+
 
 

@@ -9,17 +9,17 @@ Enter your answer
 **Place:** Web-based platform — no download or installation required. Starting in Georgia for validation, then expanding to US as primary market. Available for every company globally, no exclusivity deals.
 **Promotion:** Distribution through industry organizations, not app stores. Our co-founder Nikoloz is the upcoming CTO of the Georgian Precast Association — giving us direct access to multiple companies from day one. US expansion follows the same model: industry associations and direct relationships.
 **USP:** 50% reduction in drawing time. Tested on real projects — 6 hours manually became 3 hours with Buildable.
-**IP:** Currently no formal IP protection. Our moat is domain expertise, library of precast elements templates written in Python code language and distribution through industry relationships.
+**IP:** Currently no formal IP protection. Our moat is domain expertise, library of precast element templates encoded in Python code and distribution through industry relationships.
 
 14.WHY – Define the problem your product or service is trying to solve and describe the market opportunity, including any market forces and trends, particularly in the U.S. Why is there a market need for your product or service? What is the size of your target market (global and specific to the U.S.), and what potential is there for growth? Who is your target customer and how will you reach them? Who are your closest competitors and what is your competitive advantage?
 Enter your answer
-Precast concrete is fast growing segment of the construction industry globally, expanding at 6% annually as it is 50-80% faster, cheaper, envirounmently friendly and requires less labor compared to other construction methods.  Yet the engineering workflow is stuck in the 1990s.
+Precast concrete is fast growing segment of the construction industry globally, expanding at 6% annually as it is 50-80% faster, cheaper, and requires less labor compared to other construction methods. Yet the engineering workflow is stuck in the 1990s.
 
 The core problem: Precast projects take 2 months to draw, 15 days to build. Directors complained about this constantly. What slows down precast is its repetitive 2D construction drawings. structural engineers spend 80% of their time on repetitive drawing work, not actual engineering.
 Market size: ~18,000 precast structural engineers in US = serviceable market of $43M in ARR. Even 10% is $4M+ ARR. Global Precast market size is $140B and growing 6% annually.
 Target customer: Precast concrete manufacturers and structural engineering firms employing dedicated precast designers.
 How we reach them: We reach them Through industry associations (Precast/Prestressed Concrete Institute in the US has 1,000+ member companies), direct outreach to company executives and word-of-mouth within precast companies. 
-Competitors: Adam (YC W25, $4M) and Zoo ($10M, Sequoia) do text-to-CAD for general CAD users. Leo AI ($10M, a16z) is a copilot for mechanical engineers and these three are focused on 3D models. DraftAid (YC W24) generates 2D drawings from 3D models for manufacturing parts. None are touching precast 2D detailing as a vertical. We are the only team with a structural engineer as co-founder actively using and testing the product on real projects.
+Competitors: Adam (YC W25, $4M) and Zoo ($10M, Sequoia) do text-to-CAD for general CAD users. Leo AI ($10M, a16z) is a copilot for mechanical engineers and these three are focused on 3D models. DraftAid (YC W24) generates 2D drawings from 3D models for manufacturing parts. None are touching precast 2D detailing as a vertical. We are the only team with a structural engineer as co-founder actively using and testing the product on real projects - giving us domain depth no software-only team can replicate.
 
 15.HOW – Describe your business model, your plans for profitability, and any growth/scaling your startup has achieved to date.  How do you deliver your product or service to the market? Who are your existing customers? How do you achieve sales? What are your funding needs and why? Do you have any partnerships or other relationships that support your startup’s growth? 
 
@@ -27,7 +27,7 @@ Business model: Business model: Monthly SaaS subscription. Per-seat pricing at $
 Current status: Proof of concept, working toward MVP. Nikoloz (co-founder, structural engineer) uses and tests on small projects he previously did manually. Last test: a project that took 6 hours manually took 3 hours with Buildable.
 Customer acquisition: Primary channel is industry associations. Nikoloz's upcoming role as CTO of Georgian Precast Association gives us immediate access to multiple companies for pilot customers. In the US, we will replicate this through the Precast/Prestressed Concrete Institute (PCI) network.
 Funding needs: Seeking investment to accelerate product development, hire one additional ML engineer, and fund US market entry (travel, legal entity formation, PCI membership and conference presence). YC funding ($500K) or equivalent angel round.
-Partnerships: Georgian Precast Association - in the process of creation (via Nikoloz). Elcrete (current employer of Nikoloz) as first pilot customer. Element Holding (Our former client) as middleman for connecting Goergian precast companies. 
+Partnerships: Georgian Precast Association (Nikoloz is appointed as incoming CTO). Elcrete (current employer of Nikoloz) as first pilot customer. Element Holding (Our former client) as middleman for connecting Goergian & global precast companies.
 
 No revenue yet. First paying customers targeted Q2 2026.
 
@@ -61,22 +61,20 @@ Join PCI and attend industry conferences
 
 Hire one US-based business development person with construction industry relationships
 
-Progress made: Two founders (Otari and Luka) have already committed to relocating to San Francisco post-funding. US pricing model defined. Competitor landscape in US fully mapped.
-Note: progress made part needs to be changed and precast association research needed. 
+Progress made: US pricing validated against competitor benchmarks — $200/seat aligns with what US engineers already pay for tools like AutoCAD. US competitor landscape fully mapped. PCI membership requirements and annual conference schedule researched. Two founders (Otari and Luka) committed to relocating to San Francisco post-funding. Participating in SelectUSA Investment Summit is itself a step in our US entry strategy — we'll use it meet the right people, not just pitch.
 
 17.WHO – Provide information about your management team as indicated to demonstrate why investors can trust your team. Include the names and titles of your management team. What technical or business expertise does your team demonstrate? Why is your management team qualified to deliver your technology product/service to the U.S. market? What are the relevant accomplishments/skills/experiences your leadership team has which contribute to your startup’s success?
 Enter your answer 
 Otar Donadze — CEO (35% equity)
-Serial entrepreneur since age 15 — first underage person to register a business in his region (printing company, $5K revenue in 4 months). Previously co-founded BitpulseAI (crypto analytics platform). Led customer discovery for Buildable — personally interviewed 13 industry professionals (engineers, architects, construction directors) before a line of code was written. Secured first construction company client through an AI agency, gaining deep access to how the industry actually works. Secured $10K in government funding to build a co-working space that became the team's first office. Background in business development, sales, and marketing (managed social media generating 3M+ organic views).
+Serial entrepreneur since age 15 — first underage person to register a business in his region (printing company, $5K revenue in 4 months). Previously co-founded BitpulseAI (crypto analytics platform). Led customer discovery for Buildable — personally interviewed 13 industry professionals (engineers, architects, company directors) before a line of code was written. Secured first construction company client through an AI agency, gaining deep access to how the industry actually works. Secured $10K in government funding to build a co-working space that became the BitpulseAI team's first office. Background in business development, sales, and marketing (Created content for Inter Academy Georgia averaged ~140k view on each video, ~2.5M views in total).
 
 Luka Lortkipanidze — CTO (45% equity)
-5+ years of professional software engineering experience across ML, backend, frontend, and DevOps. Built SOTA machine learning model for Georgian real estate valuation at Colliers. CTO at Hapttic (social media monitoring platform). Won 1st place at High-Frequency Trading Hackathon in Dubai. Contributed to tinygrad (open-source deep learning library). Built AI trading bots, a decentralized P2P AI inference network, and now the core Buildable product — alone, with no external technical hires.
+5+ years of professional software engineering experience across ML, backend, frontend, and DevOps. Built SOTA machine learning model for Georgian real estate valuation at Colliers. Ex-CTO at Hapttic (social media monitoring platform). Won 1st place at High-Frequency Trading Hackathon in Dubai. Contributed to tinygrad (open-source deep learning library). 3rd place at Tether internal hackathon. Speaker at Tbilisi AI Meetups. Built: decentralized P2P AI inference network; drone-based camouflaged insect detection system (~90% accuracy) awarded by Georgia's Ministry of Environmental Protection, and now the core Buildable product — alone, with no external technical hires.
 
 Nikoloz Lortkipanidze — CPO (10% equity)
 Structural engineer at Elcrete, upcoming CTO of the Georgian Precast Association. Built AutoCAD automation plugins (AutoLISP) for precast workflows currently used daily by his team. Went from zero industry experience to independently designing structures for real buildings within 6 months. His dual role — domain expert and distribution channel — is the foundation of Buildable's go-to-market strategy.
 
 Why this team: We have the rare combination of a battle-tested technical co-founder, a business co-founder with demonstrated ability to get into rooms he shouldn't be in, and a domain expert who is simultaneously our first user, our product validator, and our direct pipeline to the industry. No other team building in this space has this combination.
-Note: I need to add Tether, drone and speaker at luka's application. keep it like this. no need for many changes. 
 
 18.Is there anything else important about your startup that you would like to tell us?
 Enter your answer

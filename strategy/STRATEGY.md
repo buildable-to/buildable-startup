@@ -403,6 +403,14 @@ Nobody will pay for "FreeCAD but slightly better." They will pay for "I describe
 
 ## 7. Construction/Precast Market Deep Dive
 
+### Structural engineer salaries:
+- US: ~$80k–120k typical, juniors ~55–75k, seniors 100k+.
+- Canada: ~C$80k–120k in major cities.
+- Germany: ~$40k-$48k average; ~$60k-$70k is seniors maximum salary. Base ~€18k-~€35k
+- UK: average £33–45k; senior £45–60k; principal £60–70k; director‑level up to £120k.
+- Netherlands: (PayScale): average ≈€43,802, with most between €36k–62k.
+- Western Europe: ~€40k–60k / £35k–55k for most; seniors higher.
+
 ### Why Construction Is Notoriously Hard to Sell To
 
 | Challenge | Why It Matters |

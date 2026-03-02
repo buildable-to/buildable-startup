@@ -1,0 +1,407 @@
+**Select USA 2026:**
+
+-WHAT – Clearly explain what your product or service is. Describe your product or service and its positioning within the market using the 4P Marketing Mix: Price, Product, Promotion, and Place. What is the product or service’s Unique Selling Proposition (USP)? What feature or perceived benefit sets it apart from similar products or services? Do you have any Intellectual Property (IP) protections and/or will you need them for the U.S. market?
+Enter your answer
+
+**Product:** Buildable is text-to-CAD software/AI assistant for precast structural engineers working on 2D construction drawings. Flow of the product is similar to how programmers use Cursor or Claude Code and fits into the way engineers already work. We're built on FreeCAD (open-source CAD with the same geometry engine as SolidWorks). The AI edits Python code that defines the design, so everything is version-controllable and reproducible. Change one parameter, everything regenerates.
+**Price:** $200/seat/month in the US market — equivalent to existing CAD software costs, so no new budget category for buyers. Starting at $500-1,000/month per company in Georgia for initial validation.
+**Product positioning:** We're the only AI tool focused specifically on precast concrete 2D detailing. Competitors target general CAD or 3D modeling. Precast is highly standardized and template-driven — ideal for automation.
+**Place:** Web-based platform — no download or installation required. Starting in Georgia for validation, then expanding to US as primary market. Available for every company globally, no exclusivity deals.
+**Promotion:** Distribution through industry organizations, not app stores. Our co-founder Nikoloz is the upcoming CTO of the Georgian Precast Association — giving us direct access to multiple companies from day one. US expansion follows the same model: industry associations and direct relationships.
+**USP:** 50% reduction in drawing time. Tested on real projects — 6 hours manually became 3 hours with Buildable.
+**IP:** Currently no formal IP protection. Our moat is domain expertise, library of precast element templates encoded in Python code and distribution through industry relationships.
+
+14.WHY – Define the problem your product or service is trying to solve and describe the market opportunity, including any market forces and trends, particularly in the U.S. Why is there a market need for your product or service? What is the size of your target market (global and specific to the U.S.), and what potential is there for growth? Who is your target customer and how will you reach them? Who are your closest competitors and what is your competitive advantage?
+Enter your answer
+Precast concrete is fast growing segment of the construction industry globally, expanding at 6% annually as it is 50-80% faster, cheaper, and requires less labor compared to other construction methods. Yet the engineering workflow is stuck in the 1990s.
+
+The core problem: Precast projects take 2 months to draw, 15 days to build. Directors complained about this constantly. What slows down precast is its repetitive 2D construction drawings. structural engineers spend 80% of their time on repetitive drawing work, not actual engineering.
+Market size: ~18,000 precast structural engineers in US = serviceable market of $43M in ARR. Even 10% is $4M+ ARR. Global Precast market size is $140B and growing 6% annually.
+Target customer: Precast concrete manufacturers and structural engineering firms employing dedicated precast designers.
+How we reach them: We reach them Through industry associations (Precast/Prestressed Concrete Institute in the US has 1,000+ member companies), direct outreach to company executives and word-of-mouth within precast companies. 
+Competitors: Adam (YC W25, $4M) and Zoo ($10M, Sequoia) do text-to-CAD for general CAD users. Leo AI ($10M, a16z) is a copilot for mechanical engineers and these three are focused on 3D models. DraftAid (YC W24) generates 2D drawings from 3D models for manufacturing parts. None are touching precast 2D detailing as a vertical. We are the only team with a structural engineer as co-founder actively using and testing the product on real projects - giving us domain depth no software-only team can replicate.
+
+15.HOW – Describe your business model, your plans for profitability, and any growth/scaling your startup has achieved to date.  How do you deliver your product or service to the market? Who are your existing customers? How do you achieve sales? What are your funding needs and why? Do you have any partnerships or other relationships that support your startup’s growth? 
+
+Business model: Business model: Monthly SaaS subscription. Per-seat pricing at $200/engineer/month in the US — comparable to existing CAD software spend, requiring no new budget approval. Per-company pricing ($500-1,000/month) for smaller Georgian market validation.
+Current status: Proof of concept, working toward MVP. Nikoloz (co-founder, structural engineer) uses and tests on small projects he previously did manually. Last test: a project that took 6 hours manually took 3 hours with Buildable.
+Customer acquisition: Primary channel is industry associations. Nikoloz's upcoming role as CTO of Georgian Precast Association gives us immediate access to multiple companies for pilot customers. In the US, we will replicate this through the Precast/Prestressed Concrete Institute (PCI) network.
+Funding needs: Seeking investment to accelerate product development, hire one additional ML engineer, and fund US market entry (travel, legal entity formation, PCI membership and conference presence). YC funding ($500K) or equivalent angel round.
+Partnerships: Georgian Precast Association (Nikoloz is appointed as incoming CTO). Elcrete (current employer of Nikoloz) as first pilot customer. Element Holding (Our former client) as middleman for connecting Goergian & global precast companies.
+
+No revenue yet. First paying customers targeted Q2 2026.
+
+16.WHEN/WHERE – Describe your U.S. market expansion plans and entry strategy. As this is a SelectUSA event, it is highly important to demonstrate that you have thought carefully about your U.S. market entry plans and strategy. How and why does U.S. market entry fit your startup’s growth strategy? What does your timeline for U.S. market entry look like? Do you know where in the U.S. you might locate? What steps does your company need to take to prepare for U.S. market entry? What progress have you made?
+Enter your answer
+Buildable is explicitly built for US market entry. Our entire product roadmap and pricing model is designed around the US construction market — the largest and highest willingness-to-pay market for construction software globally.
+
+Timeline:
+
+March 2026: MVP release, first external users in Georgia
+
+Q2 2026: First paying Georgian customers, begin US market research and outreach
+
+Q3 2026: US legal entity formation (Delaware C-Corp), attend PCI annual conference, first US pilot conversations
+
+Q4 2026: First US paying customers
+
+2027: Primary focus shifts to US market scale
+
+Why the US: US precast market is significantly larger, engineers are paid more (meaning our time-saving ROI is higher), and software adoption rates in US construction are faster than in Georgia or Eastern Europe. The $200/seat price point that would be aggressive in Georgia is standard in the US.
+
+Where in the US: San Francisco Bay Area for company headquarters — access to AI/ML engineering talent, investors, and the broader construction tech ecosystem. Sales presence will follow customer concentration, likely Northeast and Southeast US where precast manufacturing is densest.
+
+Steps to prepare:
+
+Validate product with Georgian customers (ongoing)
+
+Form US legal entity
+
+Join PCI and attend industry conferences
+
+Hire one US-based business development person with construction industry relationships
+
+Progress made: US pricing validated against competitor benchmarks — $200/seat aligns with what US engineers already pay for tools like AutoCAD. US competitor landscape fully mapped. PCI membership requirements and annual conference schedule researched. Two founders (Otari and Luka) committed to relocating to San Francisco post-funding. Participating in SelectUSA Investment Summit is itself a step in our US entry strategy — we'll use it meet the right people, not just pitch.
+
+17.WHO – Provide information about your management team as indicated to demonstrate why investors can trust your team. Include the names and titles of your management team. What technical or business expertise does your team demonstrate? Why is your management team qualified to deliver your technology product/service to the U.S. market? What are the relevant accomplishments/skills/experiences your leadership team has which contribute to your startup’s success?
+Enter your answer 
+Otar Donadze — CEO (35% equity)
+Serial entrepreneur since age 15 — first underage person to register a business in his region (printing company, $5K revenue in 4 months). Previously co-founded BitpulseAI (crypto analytics platform). Led customer discovery for Buildable — personally interviewed 13 industry professionals (engineers, architects, company directors) before a line of code was written. Secured first construction company client through an AI agency, gaining deep access to how the industry actually works. Secured $10K in government funding to build a co-working space that became the BitpulseAI team's first office. Background in business development, sales, and marketing (Created content for Inter Academy Georgia averaged ~140k view on each video, ~2.5M views in total).
+
+Luka Lortkipanidze — CTO (45% equity)
+5+ years of professional software engineering experience across ML, backend, frontend, and DevOps. Built SOTA machine learning model for Georgian real estate valuation at Colliers. Ex-CTO at Hapttic (social media monitoring platform). Won 1st place at High-Frequency Trading Hackathon in Dubai. Contributed to tinygrad (open-source deep learning library). 3rd place at Tether internal hackathon. Speaker at Tbilisi AI Meetups. Built: decentralized P2P AI inference network; drone-based camouflaged insect detection system (~90% accuracy) awarded by Georgia's Ministry of Environmental Protection, and now the core Buildable product — alone, with no external technical hires.
+
+Nikoloz Lortkipanidze — CPO (10% equity)
+Structural engineer at Elcrete, upcoming CTO of the Georgian Precast Association. Built AutoCAD automation plugins (AutoLISP) for precast workflows currently used daily by his team. Went from zero industry experience to independently designing structures for real buildings within 6 months. His dual role — domain expert and distribution channel — is the foundation of Buildable's go-to-market strategy.
+
+Why this team: We have the rare combination of a battle-tested technical co-founder, a business co-founder with demonstrated ability to get into rooms he shouldn't be in, and a domain expert who is simultaneously our first user, our product validator, and our direct pipeline to the industry. No other team building in this space has this combination.
+
+18.Is there anything else important about your startup that you would like to tell us?
+Enter your answer
+Otari and Luka applied to Y Combinator S24 with a different idea (crypto data platform) and failed because we built without talking to customers. We learned from that mistake.
+
+With Buildable, we did the opposite: interviewed engineers, watched them work, understood the problem, then built. We brought in a domain expert as co-founder before writing code.
+
+We're not chasing a trend. We found a real problem in a growing market with no direct competitors. Our co-founder works in this industry daily and will be CTO of the national precast association — giving us distribution that software-only teams can't replicate.
+
+We're coming to the US because that's where the biggest market and highest willingness to pay are. Georgia is our validation ground; America is the goal.
+
+
+
+
+
+
+
+**YC Spring 2026**
+Company
+Company name
+Buildable
+Describe what your company does in 50 characters or less.
+Cursor for Precast structural engineers
+Company URL, if any
+Unanswered
+Demo Video
+No video uploaded
+Please provide a link to the product, if any.
+Unanswered
+Unanswered
+What is your company going to make? Please describe your product and what it does or will do.
+We're making text-to-CAD for precast structural engineers working on 2D construction drawings. Flow of the product is similar to how programmers use Cursor or Claude Code and fits into the way engineers already work. The drawing phase of precast projects takes 3-4x longer than actual construction. We're aiming to cut that by 3x. We're built on FreeCAD (open-source CAD with the same geometry engine as SolidWorks). The AI edits Python code that defines the design, so everything is version-controllable and reproducible. Change one parameter, everything regenerates.
+Where do you live now, and where would the company be based after YC?
+Tbilisi, Georgia / likely San Francisco, US
+Explain your decision regarding location.
+Georgia is our testing ground—Nikoloz (co-founder) is upcoming CTO of Georgian Precast Association, giving us direct access to precast companies for early customers and feedback. After YC, San Francisco for access to AI/CAD talent, investors, and the US construction market.
+Progress
+How far along are you?
+Proof of concept, working toward MVP. Nikoloz (co-founder, structural engineer) uses and tests on small projects he previously did manually. Last test: a project that took 6 hours manually took 3 hours with Buildable.
+During this 1.5 months we interviewed 7 structural engineers (2 senior, 2 mid, 3 junior), 3 architects, and a construction company director. These conversations led us to narrow scope from general structural engineering to precast and 2D drawings specifically.
+How long have each of you been working on this? How much of that has been full-time? Please explain.
+1.5 months, part-time. Otari and Luka quit their jobs and go full-time from 1st March regardless of YC. Nikoloz stays part-time, because his upcoming role at Georgian Precast Association gives us direct access to customers.
+
+What tech stack are you using, or planning to use, to build this product? Include AI models and AI coding tools you use.
+Product is built with Claude Code backend and FreeCAD frontend, nothing else for now, we believe that coding agents can be used as a general purpose agent if we give well structured and tested environment in domain-specific field so we're planning to rely on CC
+Optional: attach a coding agent session you're particularly proud of.
+Unanswered
+Are people using your product?
+No
+When will you have a version people can use?
+March 2026 for external users. Working prototype exists — AI generates 2D drawings from descriptions. We are fixing bugs and improving output quality before releasing to external users.
+Do you have revenue?
+no
+If you are applying with the same idea as a previous batch, did anything change? If you applied with a different idea, why did you pivot and what did you learn from the last idea?
+We applied to S24 with Bitpulse, a crypto data platform for traders. It failed for two reasons: Twitter API pricing killed our main data source, and we pivoted twice without ever talking to customers. We followed tech trends and our instincts instead of validating with users.
+
+Lesson learned: validate before building, start with people who have the problem.
+
+With Buildable, we did the opposite. We interviewed structural engineers, watched them work, and understood the problem before writing code. Then we brought in Nikoloz — a structural engineer with industry access — as a co-founder.
+If you have already participated or committed to participate in an incubator, "accelerator" or "pre-accelerator" program, please tell us about it.
+No we have not.
+Idea
+Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+Luka and Otari started an AI agency. Our first client was a subsidiary of one of Georgia's largest construction companies. Through that engagement, we got access to the whole organization - engineers, architects, accountants, executives. We watched how they worked.
+
+What we found: structural engineers spend 80% of their time on repetitive drawing work, not actual engineering. Precast projects take 2 months to draw, 15 days to build. Directors complained about this constantly.
+
+We brought in Nikoloz (Luka's brother, structural engineer) as co-founder. He explained every nuance of the workflow and confirmed what we saw - most of the job is manual and robotic. No creativity required.
+
+We narrowed to precast & 2D drawings because they're the most standardized, meaning easier to automate. Big growing market with no direct AI competitors doing same.
+Who are your competitors? What do you understand about your business that they don't?
+Adam (YC W25, $4M) and Zoo ($10M, Sequoia) do text-to-CAD for general CAD users. Leo AI ($10M, a16z) is a copilot for mechanical engineers and these three are focused on 3D models. DraftAid (YC W24) generates 2D drawings from 3D models for manufacturing parts.
+
+What slows down precast is its repetitive 2D construction drawings. Directors complain that drawing takes 2 months while actual construction takes 15 days. Precast is template-driven, rules-based, highly standardized - ideal for automation. None of these competitors are touching precast 2D detailing as a vertical.
+
+We also understand distribution. In construction you grow through industry organization, not through app stores. Having Nikoloz as the upcoming CTO of Georgian Precast Association gives us direct access to multiple companies from day one.
+How do or will you make money? How much could you make?
+Monthly subscription per company. Starting at $500-1000/month in Georgia - roughly what one engineer costs for a few days of work. If we cut drawing time in half, that's an easy yes.
+
+For US/Europe: per-seat pricing, $200/month per engineer - similar to what they already pay for CAD software, so no new budget category.
+
+~18,000 precast structural engineers in US = serviceable market of $43M in ARR. Even 10% is $4M+ ARR. Precast market is growing 6% annually. Georgia is first market to validate, then we move to US where willingness to pay is highest.
+Which category best applies to your company?
+B2B SaaS
+If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application.
+Fully decentralized, open-source, P2P network for running AI language models. It enables anyone to contribute their computing power to a distributed AI inference network or use the network to run AI models without relying on centralized cloud services.
+Equity
+Have you formed ANY legal entity yet?
+no
+If you have not formed the company yet, describe the planned equity ownership breakdown among the founders, employees and any other proposed stockholders. If there are multiple founders, be sure to give the proposed equity ownership of each founder and founder title (e.g. CEO). (This question is as much for you as us.)
+Luka Lortkipanidze — CTO — 45%
+Otar Donadze — CEO — 35%
+Nikoloz Lortkipanidze — CPO — 10%
+Option pool — 10%
+
+Founder agreement signed January 5, 2026. All founders on 4-year vesting with 1-year cliff.
+Have you taken any investment yet?
+no
+
+oto donadze
+check_circle
+Profile complete
+keyboard_arrow_down
+Basics
+Name
+oto donadze
+Email
+otodonadze88@gmail.com
+Phone Number
++995551804510
+Age
+20
+Gender
+Male
+City where you currently live
+Tbilisi, Tbilisi, GE
+Role
+What is your title, or if you haven’t set it yet, main responsibility?
+CEO
+What percent equity do you have?
+35
+Do you have at least 10% equity in the company you're applying with?
+yes
+Are you a technical founder?
+no
+Are you currently in school?
+yes
+Will you have graduated by the time the batch starts?
+no
+Walk us through your thinking around balancing your startup, school, and any other obligations.
+My priority is Buildable. I quit my job in January to go full-time (currently spending 5h/week transitioning my replacement, done this week).
+
+Georgia has mandatory military service, but university enrollment delays it. I'll stay nominally enrolled for that reason while dedicating all my time to the company.
+If accepted to YC, will you commit to working exclusively on this project for the next year?
+yes
+Background
+Your LinkedIn URL
+https://www.linkedin.com/in/oto-donadze/
+Education
+New Vision University
+Sep 2024 - Jul 2028
+BA, Business Administration
+Ambrolauri N1 public school
+Sep 2019 - May 2023
+High school, ?
+Work Experience
+Buildable - Co-founder & CEO
+Jan 2026 - Present
+New Vision University - Marketing & Content Coordinator
+Sep 2025 - Jan 2026
+Created content for Inter Academy Georgia (averaged ~140k view on each video, ~2.5M views in total). and for NVU. Managed Inter's social media accounts.
+
+BitpulseAI - Co-founder & CEO
+Sep 2023 - Oct 2025
+Ambrolauri Mayor's Youth Advisory Council - Board Member
+Sep 2022 - Sep 2024
+Social Media
+Github URL
+https://github.com/odonadze
+Accomplishments
+Please tell us about a time you most successfully hacked some (non-computer) system to your advantage.
+As a board member for Ambrolauri city youth council, I discovered $10,000 in the annual budget for youth initiatives — unspent every year because no one knew about it. The government would redirect it to other projects at year's end.
+
+I made a proposal to create a co-working space using that budget. I learned how their budgets were formatted and wrote my proposal in the exact same structure so they wouldn't have extra work. I also brought interior design mockups to the second meeting so they could visualize exactly how the space would look after renovation.
+
+It worked. I got the funding, secured an unused government space, and created a co-working space that became the office where Luka and I worked on our first startup for 1 year.
+Please tell us in one or two sentences about the most impressive thing other than this startup that you have built or achieved.
+At 15, I became the first underage person to register a business in my region — a printing company that made $5k revenue (30% margin) in four months. Shut it down when I realized the market was too small to scale.
+Tell us about things you've built before. For example apps you’ve built, websites, open source contributions. Include URLs if possible.
+At AI hackathon with Luka, we built Qmesh — a fully decentralized, open-source P2P network for running AI language models without relying on centralized cloud services (finished 2nd place). At a separate hackathon (TechXplore), with different team we built a payment splitting system — 2nd place.
+List any competitions/awards you have won, or papers you’ve published.
+- Volunteer of the Year 2022 (National level, Georgia)
+- "Best Entrepreneur" at School Olympics 2023 (National level) — came with 100% university scholarship
+List any relevant or impressive test scores.
+"Etaloni" winner in my region with 97/100 score - academic knowledge-based competition.
+List any entrepreneurship programs, clubs, or hacker houses you have participated in or are currently participating in.
+- Impact Hub Tbilisi Pre-Accelerator (3 months, with BitpulseAI) — included demo days in Tbilisi and Tallinn
+- Startup Wise Guys mentoring sessions and demo day in Estonia (5 days, partnership with Impact Hub)
+- Member and later Vice-President of Ambrolauri Mayor's Youth Advisory Council
+- Financial Manager at Racha Youth Bank (non-profit, European-funded)
+Luka Lortkipanidze
+check_circle
+Profile complete
+keyboard_arrow_down
+Basics
+Name
+Luka Lortkipanidze
+Email
+lukalortkipanidze1@gmail.com
+Phone Number
++995557667783
+Age
+25
+Gender
+Male
+City where you currently live
+Tbilisi, Tbilisi, GE
+Role
+What is your title, or if you haven’t set it yet, main responsibility?
+CTO
+What percent equity do you have?
+45
+Do you have at least 10% equity in the company you're applying with?
+yes
+Are you a technical founder?
+yes
+Are you currently in school?
+no
+If accepted to YC, will you commit to working exclusively on this project for the next year?
+yes
+Background
+Your LinkedIn URL
+https://www.linkedin.com/in/luka-lortkipanidze-6b11321b8/
+Education
+BTU • Business and Technology University
+Jan 2018 - Jan 2020
+BA, Computer Science
+Ambrolauri N1 public school
+Sep 2014 - May 2018
+High school, ?
+Work Experience
+Hapttic - CTO
+Oct 2024 - Feb 2026
+Promoted in the same company
+
+Making Science - Data Engineer
+Nov 2023 - Jun 2024
+Leading data-driven marketing platform's data module.
+
+BitpulseAI - Co-Founder CTO
+Aug 2023 - Oct 2025
+Hapttic - Software Engineer
+Nov 2022 - Nov 2023
+Tech Lead of the product.
+
+Colliers - Machine Learning Engineer
+Oct 2021 - May 2022
+Created SOTA model for Georgian real estate flat-valuation model.
+
+Noxtton - Software Engineer
+Sep 2021 - Nov 2022
+Was involved in a single project from scratch to MVP.
+
+Colliers - Machine Learning Engineer Intern
+Apr 2021 - Oct 2021
+Created real-estate data aggregation system. Got full-time offer after internship to led Georgian auto-valuation project.
+
+Social Media
+Twitter URL
+https://x.com/lukalortk
+Github URL
+https://github.com/l0rtk
+Accomplishments
+Please tell us about a time you most successfully hacked some (non-computer) system to your advantage.
+At 15, I found a glitch in an online role-playing game that allowed you to earn double the money for repairing cars during holiday events("X2 Paydays"). By intentionally damaging your own car and then repairing it as a mechanic, you could exploit the "X2 payday" bonus meant for regular salaries. Over two months, I made ~$2,000 selling the virtual currency before it was discovered and fixed by the developers.
+Please tell us in one or two sentences about the most impressive thing other than this startup that you have built or achieved.
+In 2021, built a drone-based system that detects camouflaged insects (~90% accuracy) using deep learning — before modern AI tools made this easier. Awarded by Georgia's Ministry of Environmental Protection and Agriculture.
+Tell us about things you've built before. For example apps you’ve built, websites, open source contributions. Include URLs if possible.
+- https://hapttic.com - social media monitoring tool - Tech Lead
+- https://recov.ge - real estate analytical platform
+- https://github.com/tinygrad/tinygrad - contributed for open source deep learning library
+- Auto-evaluation SOTA model for Georgia.
+List any competitions/awards you have won, or papers you’ve published.
+- 1st place, High-Frequency Trading Hackathon (Dubai)
+- 3rd place, Tether internal hackathon (employees only)
+- 5x hackathon winner (Georgia)
+List any relevant or impressive test scores.
+Unanswered
+List any entrepreneurship programs, clubs, or hacker houses you have participated in or are currently participating in.
+- Impact Hub Tbilisi Pre-Accelerator (3 months) — demo days in Tbilisi and Tallinn
+- Startup Wise Guys mentoring sessions + demo day (Estonia, 5 days)
+- Speaker at Tbilisi AI Meetups — https://www.tbilisiaimeetups.ge
+Nikoloz Lortkipanidze
+check_circle
+Profile complete
+keyboard_arrow_down
+Basics
+Name
+Nikoloz Lortkipanidze
+Email
+nikalortkipanidze2019@gmail.com
+Phone Number
++995551515213
+Age
+21
+Gender
+Male
+City where you currently live
+Tbilisi, Tbilisi, GE
+Role
+What is your title, or if you haven’t set it yet, main responsibility?
+CPO
+What percent equity do you have?
+10
+Do you have at least 10% equity in the company you're applying with?
+yes
+Are you a technical founder?
+yes
+Are you currently in school?
+yes
+Will you have graduated by the time the batch starts?
+no
+Walk us through your thinking around balancing your startup, school, and any other obligations.
+I am currently a final-year student, but I have already transitioned into a full-time professional role. My university schedule is very flexible and doesn't interfere with standard business hours. I am confident in my ability to remain fully committed to the team, as I am already successfully managing a full-time workload.
+If accepted to YC, will you commit to working exclusively on this project for the next year?
+yes
+Background
+Your LinkedIn URL
+https://www.linkedin.com/in/nikoloz-lortkipanidze-0624722a2
+Education
+Agricultural University of Georgia
+Sep 2022 - Jun 2026
+BA, Structural Engineering
+Work Experience
+Elcrete - Structural Engineer
+Sep 2025 - Present
+Social Media
+Accomplishments
+Please tell us about a time you most successfully hacked some (non-computer) system to your advantage.
+While taking concurrent courses in Formal Logic and Anthropology, I found myself unprepared for a complex anthropology final exam consisting of over 50 multiple-choice questions. Instead of guessing, I decided to treat the exam as a closed logical system rather than a test of memorized facts. I spent the first 20 minutes cross-referencing every question to identify internal dependencies and contradictions. For example, I noticed that the premise of Question #8 logically invalidated options B and C in Question #22, and the phrasing of Question #45 provided a necessary condition for the answer in Question #5. By constructing a mental logical grid of the entire test, I was able to deduce the correct answers through pure deductive reasoning and structural consistency. Despite having minimal subject-specific knowledge, I cleared the exam with a high score by 'reverse-engineering' the examiner’s logic through the very principles I was learning in my Logic class.
+Please tell us in one or two sentences about the most impressive thing other than this startup that you have built or achieved.
+Within six months of starting my job as a precast structural designer, I went from zero industry experience to independently designing concrete structures for real buildings learning faster than expected by studying outside of work hours.
+Tell us about things you've built before. For example apps you’ve built, websites, open source contributions. Include URLs if possible.
+I built a suite of AutoCAD automation plugins (AutoLISP) for precast concrete structural design automating repetitive drafting tasks like dimensioning, rebar detailing, and schedule generation. These tools are used daily in our production and have significatly simplified the workflow for me and my colleagues.
+List any competitions/awards you have won, or papers you’ve published.
+Awarded 100% State study grant for high academic performance in the National University Entrance Exams.
+List any relevant or impressive test scores.
+Achieved the #1 overall score in my administrative region, outperforming thousands of candidates and receiving regional excellence awards for academic distinction.
+List any entrepreneurship programs, clubs, or hacker houses you have participated in or are currently participating in.
+Unanswered

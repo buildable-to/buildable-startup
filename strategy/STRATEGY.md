@@ -506,19 +506,13 @@ YC's $500K for 7% gives a Georgian team **2-4 years of runway** vs. 6-12 months 
 4. **US/EU incorporation** — Solve legal/investor concerns from day one
 5. **Solved a universal problem** — Not just a local issue
 
-### The Beachhead Strategy for Buildable
+### The Growth Strategy for Buildable
 
-**Phase 1 — Home Market as Lab (6-18 months):**
+**Phase 1 — Home Market as Lab (2-5 months):**
 Georgia as testing ground. Local customers are accessible (visit their factory in 30 minutes). Iterate fast. Get case studies.
 
-**Phase 2 — Adjacent Markets (12-24 months):**
-Turkey is the key: 85M people, massive precast industry, geographic/cultural proximity, similar price sensitivity. Also: Azerbaijan, Central Asia.
-
-**Phase 3 — Larger Markets (18-36 months):**
-Middle East (Saudi Arabia's NEOM/Vision 2030, UAE), Eastern Europe. Use regional traction for credibility.
-
-**Phase 4 — Global (36+ months):**
-Western Europe (largest precast market), then US. May need local sales presence.
+**Phase 2 — US or Europe expansion (5-12 months):**
+After Georgia we will do some tests, more research, personal connections check and will figure out in which markets to expand.
 
 ---
 
@@ -536,25 +530,18 @@ Western Europe (largest precast market), then US. May need local sales presence.
 
 ### Pricing Strategy
 
-**The core tension:** Georgian precast companies budget $500-5,000/year for software. US/European companies budget $20,000-100,000+. You can't anchor to either extreme.
+**Georgia:** Monthly subscription per company. Starting at $500-1000/month in Georgia - roughly what one engineer costs for a few days of work. If we cut drawing time in half, that's an easy yes.
 
-**Two tiers, two buyers** (see [BUSINESS_MODEL.md](BUSINESS_MODEL.md) for full details):
+**For US/Europe:** per-seat pricing, $200/month per engineer - similar to what they already pay for CAD software, so no new budget category.
 
-- **Pro** — $400/month per company (up to 5 users). The engineer's tool. AI detailing, unlimited exports, full element library.
-- **Enterprise** — $2,000-3,000/month per factory. The owner/CTO's platform. Includes the Buildable Portal (element library, templates, project dashboard, standards config, analytics).
+~18,000 precast structural engineers in US = serviceable market of $43M in ARR. Even 10% is $4M+ ARR. Precast market is growing 6% annually. Georgia is first market to validate, then we move to US where willingness to pay is highest.
 
-**Why per company/per factory (not per seat):** Per-seat pricing discourages adoption — companies minimize licenses to save money. Per-factory pricing encourages everyone at a plant to use it, and correlates with value (more factories = more projects = more value).
+**Growth Hacking:**
+- selling through job interviews. Targeted companies are ones hiring more structural engineers and growing/high demand on their company (best as they already have budget allocated and searching for it). We apply there, go to interview and tell about our product, to prove we will do technical phase test using only buildable and show them how much time it took VS how much time other applicants took. So that's a way to get product infront of them and show them what it really can. This strategy needs to be tested, but theoritically it's seems great. 
 
-**Phase 1 (0-10 customers, Georgia):**
-Design partner approach. First 3-5 free, next 5-10 pay $200-300/month (regional pricing). You're learning, not optimizing revenue.
-
-**Phase 2 (10-50 customers, regional expansion):**
-Published Pro tier at $400/month. Regional discounts for Georgia/Turkey through direct sales (never published). First Enterprise pilots at $1,000-1,500/factory.
-
-**Phase 3 (50+ customers, global):**
-Full published pricing. Enterprise at $2,500-3,000+/factory. Annual contracts with 2-month discount for prepayment.
-
-**Geographic pricing:** One public price (Western/US). Regional customers get non-public "partner discounts." Georgia $200-300/mo Pro, Turkey $300-400, Middle East $500-700, Europe/US $500-800. See [BUSINESS_MODEL.md](BUSINESS_MODEL.md) for full breakdown.
+**Considerastions** !!!
+- Per-seat pricing discourages adoption — companies minimize licenses to save money. Per-factory pricing encourages everyone at a plant to use it, and correlates with value (more factories = more projects = more value).
+- Geographic pricing: One public price (Western/US). Regional customers get non-public "partner discounts." Georgia $200-300/mo Pro, Turkey $300-400, Middle East $500-700, Europe/US $500-800.
 
 **Pricing Principles:**
 
@@ -564,7 +551,7 @@ Full published pricing. Enterprise at $2,500-3,000+/factory. Annual contracts wi
 4. **Don't compete on price.** Don't be "cheap Tekla." Be "purpose-built AI structural detailing."
 5. **Annual contracts.** Construction companies plan in project cycles. Aligns with their planning.
 
-### The ROI Story
+### The ROI Story - Theoritical, needs real proof
 
 **Current cost of drawing production in Georgia:**
 - 2 engineers × 2 months × $1,500/month = **$6,000 per project**
@@ -586,19 +573,18 @@ Full published pricing. Enterprise at $2,500-3,000+/factory. Annual contracts wi
 
 ### The Thesis (One Sentence)
 
-**Precast structural detailing is a $150B industry where 60% of project time goes to repetitive, template-driven drawing work that AI can automate — and Buildable is the only company combining a mature open-source CAD kernel with deep AI integration to do it.**
+**Precast constrcution market is a $150B industry where 80% of project time goes to repetitive, template-driven drawing work that AI can automate — and Buildable is the only company combining a mature open-source CAD kernel with deep AI integration to do it.**
 
 ### Why This Vertical, Why Now
 
 | Factor | Evidence |
 |--------|----------|
 | **The work is AI-automatable** | Template-driven, rules-based, repetitive but requires domain expertise |
-| **Pain is quantified** | 2 months design vs. 15 days construction — validated by one of Georgia's biggest precast companies |
+| **Pain is quantified** | 2 months design vs. 15 days construction — validated by 7 engineers and 2 executives of Georgia's biggest precast companies |
 | **Buyers exist and are reachable** | Countable buyer base (~300-500 plants per region), industry associations as channels |
 | **Budget exists** | $30K/year on drawing production in Georgia, $100K+ internationally |
 | **Technology is ready** | Claude/GPT-4+ era models handle code generation well, source.py architecture bridges CAD→code gap |
 | **No incumbent owns this** | Tekla is expensive and doesn't automate; no dominant "precast AI" exists |
-| **Expansion path is clear** | Precast → structural steel → general structural → "Cursor for CAD" |
 
 ### The Anti-Ondsel Strategy
 

@@ -28,13 +28,13 @@ Fun fact: Cursor's founders originally spent almost a year building AI autocompl
 
 | Company | Funding | Approach | Differentiation |
 |---------|---------|----------|-----------------|
-| **Zoo.dev** (ex-KittyCAD) | $10.1M (Sequoia) | New CAD from scratch, custom language (KCL), custom engine | 300K users, open app layer, proprietary engine |
-| **Adam** (YC W25) | $4.1M | Text-to-parametric-CAD, standalone tool | Viral (10M+ impressions), starting Onshape integration |
+| **Zoo.dev** (ex-KittyCAD) | $10.1M (Sequoia) | Geometry model built by them for mechanical engineering. They have strong investors and access to money | Their engine is built for mechanical engineers. founder team have no experience in construction/architecture |
+| **Adam** (YC W25) | $4.1M | 3D model generation. They made path from idea in our head to the 3D model easier | 3D model generation. They made path from idea in our head to the 3D model easier|
 | **MecAgent** | ~$3M | AI copilot plugin for SolidWorks/CATIA/Fusion/Creo | 10K users in 5 months, interest from Ford/Tesla/Audi |
-| **Leo AI** | $9.7M (Flint, a16z scout) | "Large Mechanical Model" — engineering knowledge copilot | 50K+ users, HP/Siemens/Mobileye clients |
+| **Leo AI** | $9.7M (Flint, a16z scout) | AI CAD for mechanical engineers. They are good in idea/concept testing and parts searching | heir focus is on mechanical engineering. Founders are mechanical engineers and their future goals and features are all about improving quality of 3D models creation |
 | **Backflip AI** | $30M (NEA, a16z) | Scan-to-parametric-CAD (reverse engineering) | Founded by Markforged CEO, Transformer co-inventor as angel |
 | **Hestus** (YC S24) | $1.5M | AI copilot for CAD sketching (Fusion 360 plugin) | Narrow focus, 12x sketch optimization |
-| **DraftAid** (YC) | $500K+ | AI 2D drawing automation from 3D models | "GitHub Copilot for CAD drawings" |
+| **DraftAid** (YC) | $500K+ | Automatically create 2D drawings from 3D models in minutes with minimal human interference | they derive from 3D models, Buildable generates 2D directly. They are doing 2D drawings for manufacturing parts and engineers, not for construction engineers |
 | **Aurorin CAD** | Unknown | New AI-native CAD with custom kernel | Early stage |
 
 **Total VC in AI-CAD startups: ~$58M+** (excluding incumbents' internal R&D)
@@ -137,44 +137,55 @@ Ondsel was a VC-backed startup that tried to commercialize FreeCAD. They **shut 
 - Average engineering team uses 5+ disconnected tools
 - Generative design subsegment growing at ~18% CAGR
 
-## Precast Concrete Market Opportunity 
-
-Fortune business insights: 
-- market size was valued at USD 160.53 billion in 2025
-- CAGR: 6.3% from 2026–2034
+## PRECAST CONCRETE MARKET SIZE
+Fortune Business Insights: 
+- The global precast concrete market valued at USD 160.53 billion in 2025
 - projected to grow to USD 170.11 billion in 2026
 - projected to grow to USD 278 billion by 2034
-- Asia Pacific dominated with a market share of 39%-USD 62.21 billion in 2025.
-- China Led the market with a size of USD 40 billion in 2025; India's size is USD 6.1 billion and Japan's is estimated to be worth USD 4.89 billion
-- Europe is the second largest market valued at USD 33.78 billion in 2025. CAGR of 20% during the forecast period (2026-2034).
-- North America size is USD 32.4 billion in 2025.
-- The columns & beams segment held the highest share of 28.96%
+- CAGR of 6.3% during 2026-2034
+- Asia Pacific dominated with a market share of 39%, $62 billion in 2025
+- Europe is the second largest market set to be valued at USD 33.78 billion in 2026 with a CAGR of 20% during the forecast period (2026-2034)
+- North America is the third largest market anticipated to hold USD 30 billion in 2026
+- China Led the market with a size of USD 42.78 billion in 2026. Residential sector dominates with 55% share of it. 
+- Residential is set to hold 38.75% of the market share; infrastructure - 38.75%; industrial - 6.33%; commercial - 12.66% in 2026.
 
-Key players: Boral (Australia); Holcim Ltd (Switzerland); Gulf Precast (UAE); Olson Precast Company (U.S.); Larsen & Toubro Limited (India); CEMEX (Mexico); Forterra Building Products Ltd (U.K.); The Wells Companies (U.S); Elementbau Osthessen GmbH & Co., ELO KG (Germany); Bouygues Group (France); Balfour Beatty plc (U.K.); CRH (Ireland); Tindall Corporation (U.S)
+Key Players: Boral (Australia); Holcim Ltd (Switzerland); Gulf Precast (UAE); Olson Precast Company (U.S.); Larsen & Toubro Limited (India); CEMEX (Mexico); Forterra Building Products Ltd (U.K.); The Wells Companies (U.S); Elementbau Osthessen GmbH & Co., ELO KG (Germany); Bouygues Group (France); Balfour Beatty plc (U.K.); CRH (Ireland); Tindall Corporation (U.S)
 
 Source: https://www.fortunebusinessinsights.com/precast-concrete-market-103301
 
 Grand View Research: 
-- precast concrete market size was estimated at USD 117.16 billion in 2025
-- expected to reach USD 191.01 billion by 2033.
-- CAGR of 6.4% from 2026 to 2033.
+- global precast concrete market size was estimated at USD 117.16 billion in 2025
+- expected to reach USD 191.01 billion by 2033
+- CAGR of 6.4% from 2026 to 2033
 - Asia Pacific dominated the market with the highest revenue share of 40.8% in 2025.
+- The infrastructure segment dominated the market with the highest revenue share of 33.1% in 2025
 
-Key players: Boral Ltd; LafargeHolcim; Gulf Precast Concrete Co. LLC; Olson Precast Company; CEMEX S.A.B. de C.V; Forterra Pipe and Precast LLC; Tindall Corporation; Spancrete; Elementbau Osthessen GmbH & Co., ELO KG; GÜlermak A.S; STECS; LAING O’Rourke; Larsen & Toubro Ltd.
-
-The global precast concrete market is estimated at $145-170 billion (2026), growing at 5-7% CAGR through 2026-2034, reaching $190-280 billion (Fortune Business Insights, Grand View Research, Mordor Intelligence, 2024-2025).
-
-Asia-Pacific represents the largest regional market (~40% share), with Middle East & Africa showing fastest growth (7% CAGR). Precast adoption is highest in infrastructure projects (30-50%) and growing rapidly in residential construction (10-40%, varies by region).
+Key companies: Boral Ltd.; LafargeHolcim; Gulf Precast Concrete Co. LLC; Olson Precast Company; CEMEX S.A.B. de C.V; Forterra Pipe and Precast LLC; Tindall Corporation; Spancrete; Elementbau Osthessen GmbH & Co., ELO KG; GÜlermak A.S.; STECS; LAING O’Rourke; Larsen & Toubro Ltd.
 
 Perplexity: 
-- Residential: 10–40% of projects use precast, fastest growing share.
-- Commercial/Industrial: 20–40% use precast, solid but steadier growth.
-- Infrastructure: Majority of major projects (bridges, tunnels, culverts) use precast; already standard in many regions.
-- for bridges, tunnels, culverts, many utilities, precast dominates (often 60–90%+ of new work), and that dominance is stable or slowly increasing.
-Limitaion: These are ranges + direction, not exact global percentages, but they’re consistent with multiple independent sources.
+- $145-170B global precast market (2026)
+- Market growing 5-7% CAGR 
+- Asia-Pacific largest region (40%+)
+- Infrastructure highest adoption (30-50%) 
+- Residential adoption increasing
+- In North America, around 20–30% of residential buildings use some precast elements
+- Globally, market reports show residential is ~30–40% of precast demand by end-use
+- In North America, about 30–40% of commercial and industrial buildings use precast components
+- Infrastructure holds ~31–32% of global precast market share; In North America, “most bridges, tunnels, etc. use precast technology”Academic and industry studies consistently find that precast/prefab systems can cut total construction time 50–80% vs conventional, largely because off‑site manufacturing and on‑site work run concurrently.
 
-For: Whole‑project durations; Time percentages for each phase; Typical staffing and crew sizes; Structural engineer salary in georgia - we need to interview firms and get information directly from them. projects are very different and these stats or average stats are not available online, only some individual cases. 
-  
+Salaries of Structural engineers: 
+- A typical US structural engineer earns around $80k–$120k/year, with juniors in the $55k–75k range
+- In Canadian urban markets, structural engineers typically earn ~$58k-$90k range.
+- Germany: average structural engineer ≈€39,960-47,000/year, range ≈€30,000–70,000.
+- UK: intermediate engineers £33–45k, senior £45–60k, principal £60–70k, director‑level up to £120k
+- Netherlands: average ≈€43,802, with most between €36k–62k.
+- China: Average structural engineer:  ~$45k/year; $22k-$66k range.
+- Japan average $37k and range $18k-$57k
+- India average $3.5k
+- Australia range $57k-$85k
+
+~18,000 precast structural engineers in US = serviceable market of $43M in ARR. Even 10% is $4M+ ARR. Precast market is growing 6% annually. Georgia is first market to validate, then we move to US where willingness to pay is highest. 
+
 ---
 
 ## What Makes Buildable Unique
@@ -245,5 +256,6 @@ For: Whole‑project durations; Time percentages for each phase; Typical staffin
 - https://www.futuremarketinsights.com/reports/computer-aided-design-cad-market
 - https://www.mordorintelligence.com/industry-reports/engineering-software-market
 - https://techcrunch.com/2025/10/31/yc-alum-adam-raises-4-1m-to-turn-viral-text-to-3d-tool-into-ai-copilot/
+
 
 

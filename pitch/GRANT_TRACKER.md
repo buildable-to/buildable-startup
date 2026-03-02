@@ -1,7 +1,7 @@
 # Accelerator & Grant Tracker
 
 ## Status
-- **Applications submitted:** 0
+- **Applications submitted:** 4
 - **In progress:** 0
 - **Researching:** All
 
@@ -27,4 +27,5 @@
 - [ ] Check eligibility requirements (geography, stage, sector)
 - [ ] Talk to founders who went through each program
 - [ ] Prioritize by fit and timeline
+
 

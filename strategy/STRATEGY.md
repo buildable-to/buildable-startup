@@ -294,7 +294,7 @@ Sam Altman's advice: **Focus on being the only one doing what you do. Figure out
 But investors in 2026 want specific defensibility:
 
 - **Data Flywheel** — Product generates unique, non-public data that improves the model over time. For Buildable: every precast element generated, every engineer correction, every Eurocode validation creates proprietary training data.
-- **Workflow Integration** — Your product is so embedded in daily operations (CRM, billing, production) that switching costs are prohibitive. For Buildable: once source.py contains a company's entire element library, switching costs are enormous.
+- **Workflow Integration** — Your product is so embedded in daily operations (CRM, billing, production) that switching costs are prohibitive. For Buildable: once a company's entire element library is encoded as drawing templates and scripts, switching costs are enormous.
 - **Process Power** — The unsexy edge-case engineering (thousands of rebar detailing rules, Georgian title block formats, BBS table standards) that takes years to accumulate.
 
 ---
@@ -313,7 +313,7 @@ Anysphere was founded in 2022 by four MIT friends: Michael Truell, Sualeh Asif, 
 3. **Text vs. spatial.** Code is text (LLMs are text machines). CAD geometry is spatial/visual.
 4. **Market timing.** GPT-3.5/4 made AI-for-code about to break out. CAD was further away.
 
-**The critical insight for Buildable:** The Cursor founders didn't abandon CAD because it was a bad market — they abandoned it because the technology wasn't ready. Your `source.py` architecture bridges this gap: **you convert the CAD problem into a code problem**, which is exactly where LLMs excel. This is a fundamentally different approach than what they tried in 2022.
+**The critical insight for Buildable:** The Cursor founders didn't abandon CAD because it was a bad market — they abandoned it because the technology wasn't ready. Buildable's code-as-source-of-truth architecture (drawing.py → DXF) bridges this gap: **you convert the CAD problem into a code problem**, which is exactly where LLMs excel. This is a fundamentally different approach than what they tried in 2022.
 
 ### Cursor's Key Decisions
 
@@ -349,7 +349,7 @@ Anysphere was founded in 2022 by four MIT friends: Michael Truell, Sualeh Asif, 
 - You're **testing demand** before committing
 - **Distribution** matters more than UX depth
 
-**For Buildable:** FreeCAD's addon system is far less mature than VS Code's extension API. The FreeCAD UI has significant UX gaps. AI-CAD integration needs to touch geometry creation, constraint solving, and 3D visualization deeply. **This strongly favors forking.** Your current approach is strategically sound.
+**For Buildable:** *Update: We moved away from the FreeCAD fork approach entirely. Instead of forking a complex C++ desktop app, we built a web-based drawing assistant from scratch (Flask + ezdxf + Claude CLI). This gives us full control over UX without inheriting FreeCAD's complexity. The fork vs. plugin question is no longer relevant — we own the entire stack.*
 
 ### "Cursor for X" — What's Working
 
@@ -384,20 +384,20 @@ In their own words: *"Failed to find commercial adoption to justify a venture-ca
 
 ### Five Lessons for Buildable
 
-**1. Don't just polish FreeCAD — fundamentally transform it.**
-Ondsel's mistake was incremental improvement. Buildable's AI-first approach is a much stronger differentiator. You're not selling "better FreeCAD" — you're selling "natural language structural detailing."
+**1. Don't polish existing CAD — build something fundamentally new.**
+Ondsel's mistake was incremental improvement of FreeCAD. Buildable took a different path entirely — we moved away from FreeCAD and built a web-based drawing assistant. You're not selling "better CAD" — you're selling "natural language structural detailing."
 
 **2. Target a different buyer.**
-Ondsel tried to sell to existing FreeCAD users. Buildable should target people who **currently use AutoCAD** for precast detailing (and hate it), or who can't afford Tekla ($10K-20K/seat/year). You're expanding the market, not converting it.
+Ondsel tried to sell to existing FreeCAD users. Buildable targets people who **currently use AutoCAD** for precast detailing (and hate it), or who can't afford Tekla ($10K-20K/seat/year). We're expanding the market, not converting it.
 
 **3. AI is the moat, not the distribution.**
-Ondsel had no technical moat. Buildable's AI integration, precast element library, Eurocode knowledge, and source.py architecture are much harder to replicate.
+Ondsel had no technical moat. Buildable's AI integration, precast element library, template system, and code-as-source-of-truth architecture are much harder to replicate.
 
 **4. Keep your AI layer proprietary.**
-Contribute bug fixes and UX improvements upstream (be a good citizen). But the AI assistant, precast library, and vertical-specific features are your competitive advantage. Don't give those away.
+The AI assistant, drawing templates, precast library, and vertical-specific features are the competitive advantage.
 
 **5. Revenue must come from value-add, not the base CAD.**
-Nobody will pay for "FreeCAD but slightly better." They will pay for "I described my foundation and got complete construction drawings in 10 minutes." The AI workflow is the product. FreeCAD is the engine.
+Nobody will pay for "CAD but slightly better." They will pay for "I described my foundation and got complete construction drawings in 10 minutes." The AI workflow is the product.
 
 ---
 
@@ -573,7 +573,7 @@ After Georgia we will do some tests, more research, personal connections check a
 
 ### The Thesis (One Sentence)
 
-**Precast constrcution market is a $150B industry where 80% of project time goes to repetitive, template-driven drawing work that AI can automate — and Buildable is the only company combining a mature open-source CAD kernel with deep AI integration to do it.**
+**Precast construction market is a $150B industry where 80% of project time goes to repetitive, template-driven drawing work that AI can automate — and Buildable is the only company combining a web-based AI drawing assistant with deep structural engineering domain expertise to do it.**
 
 ### Why This Vertical, Why Now
 
@@ -583,14 +583,14 @@ After Georgia we will do some tests, more research, personal connections check a
 | **Pain is quantified** | 2 months design vs. 15 days construction — validated by 7 engineers and 2 executives of Georgia's biggest precast companies |
 | **Buyers exist and are reachable** | Countable buyer base (~300-500 plants per region), industry associations as channels |
 | **Budget exists** | $30K/year on drawing production in Georgia, $100K+ internationally |
-| **Technology is ready** | Claude/GPT-4+ era models handle code generation well, source.py architecture bridges CAD→code gap |
+| **Technology is ready** | Claude/GPT-4+ era models handle code generation well, drawing.py→DXF architecture bridges CAD→code gap |
 | **No incumbent owns this** | Tekla is expensive and doesn't automate; no dominant "precast AI" exists |
 
 ### The Anti-Ondsel Strategy
 
 | Ondsel's Mistake | Buildable's Approach |
 |------------------|---------------------|
-| Incremental FreeCAD improvement | AI-first transformation — fundamentally new capability |
+| Incremental FreeCAD improvement | Built own web-based product — fundamentally new capability |
 | Targeted existing FreeCAD users | Target AutoCAD users in precast who hate manual work |
 | No technical moat | AI integration, precast element library, Eurocode knowledge |
 | Gave everything upstream | Keep AI layer proprietary, contribute base improvements |

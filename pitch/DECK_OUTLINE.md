@@ -29,10 +29,11 @@ Live demo or embedded video showing:
 - One parameter change → everything regenerates
 
 ## Slide 5: How It Works
-- Built on FreeCAD + OpenCASCADE (same geometry engine as SolidWorks)
-- AI edits Python code that defines the design (code-as-source-of-truth)
-- Version controllable, reproducible, git-friendly
-- Open-source base, proprietary AI layer
+- Web-based drawing assistant — no download or installation required
+- AI (Claude Code) writes Python scripts using ezdxf to generate DXF files (code-as-source-of-truth)
+- Version controllable, reproducible — `drawing.py` is the source of truth, DXF is just the build output
+- Interactive viewport with pan, zoom, layer controls, before/after review
+- Template system for standardized precast elements — agent adapts proven scripts instead of generating from scratch
 
 ## Slide 6: Market
 - CAD software: $12-23B (6.2% CAGR)

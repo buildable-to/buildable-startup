@@ -4,9 +4,9 @@
 
 ## What is Buildable?
 
-Buildable is an AI-native parametric 3D modeler for structural engineering. Engineers describe designs in natural language and Claude Code edits a Python `source.py` that defines the design. Built on FreeCAD and the OpenCASCADE geometry kernel.
+Buildable is a web-based AI drawing assistant for structural engineering. Engineers describe designs in natural language and a Claude Code agent writes Python scripts (drawing.py) using ezdxf to generate DXF files. The script is the source of truth — the DXF is just the build output. Previously built on FreeCAD; moved to a custom web-based stack (Flask + ezdxf + Claude CLI) for full control over UX and faster iteration.
 
-- **GitHub**: github.com/buildable-to/Buildable
+- **GitHub**: github.com/buildable-to/ezdxf-flask (previously github.com/buildable-to/Buildable)
 - **Website**: buildable.to
 - **Created**: December 2025, active development since January 2026
 

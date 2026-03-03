@@ -4,9 +4,9 @@
 
 This is the operational hub for Buildable, managed entirely through Claude Code. It contains strategy docs, customer research, pitch materials, competitive intel, and business planning.
 
-Buildable is an AI-native structural engineering tool built on FreeCAD.
+Buildable is an AI-native structural engineering tool — a web-based drawing assistant that generates DXF files from natural language descriptions.
 
-**The product codebase lives at:** github.com/buildable-to/Buildable
+**The product codebase lives at:** github.com/buildable-to/ezdxf-flask (previously github.com/buildable-to/Buildable when we were FreeCAD-based)
 
 ## How This Repo Works
 
@@ -30,8 +30,8 @@ When a team member opens Claude Code in this repo, `CLAUDE.md` provides full con
 - **Product:** AI assistant that generates construction-ready 2D drawings (plan views, sections, rebar details, bar bending schedules) from natural language descriptions
 - **Target vertical:** Precast concrete structural engineering
 - **Key insight:** One of Georgia's biggest precast companies spends 2 months on design/drawings but only 15 days on actual construction. The bottleneck is paperwork, not building.
-- **Base:** Fork of FreeCAD (open-source parametric CAD on OpenCASCADE kernel)
-- **AI approach:** Code-as-source-of-truth — Claude Code edits a Python source.py that defines the design
+- **Stack:** Web-based Flask app using ezdxf for DXF generation, Claude CLI as coding agent (previously built on FreeCAD fork, moved to web-based approach)
+- **AI approach:** Code-as-source-of-truth — Claude Code writes/edits Python drawing.py scripts that generate DXF files. The script is the source of truth, the DXF is just the build output.
 
 ## How to Help
 

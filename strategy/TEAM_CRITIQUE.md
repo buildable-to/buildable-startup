@@ -14,19 +14,13 @@
 
 ## Critical Gaps
 
-### 1. No CAD/Graphics Software Engineer
+### 1. ~~No CAD/Graphics Software Engineer~~ — RESOLVED
 
-The biggest gap. Buildable forks a C++ codebase with 45K+ commits built on Qt6, Coin3D, and OpenCASCADE. Luka's background is ML/data engineering — not desktop application development, 3D graphics, or computational geometry. When the project needs to:
-- Fix upstream merge conflicts in the OpenCASCADE kernel
-- Optimize 3D viewport rendering
-- Debug a segfault in the Coin3D scene graph
-- Modify the parametric recomputation engine
-
-...none of that is ML or data pipeline work. Cursor had 4 MIT CS founders who were competitive programmers. Zoo has Jessie Frazelle (infrastructure legend). Buildable forks one of the most complex open-source C++ projects with zero C++/CAD expertise on the team.
+*Previously the biggest gap when Buildable was a FreeCAD fork (C++ codebase with 45K+ commits on Qt6, Coin3D, OpenCASCADE). Moving to a web-based stack (Flask + ezdxf + Claude CLI) eliminated this dependency entirely. The product is now Python all the way through, which matches Luka's strengths. No C++/CAD expertise needed.*
 
 ### 2. No Designer/UX Person
 
-FreeCAD's #1 problem is UX — "quirks all the way down." Buildable pitches an AI-native experience, which means the chat interface, preview flows, plan approval, and the overall interaction design need to be exceptional. Cursor won partly on polish. Nobody on the team is thinking about product design full-time.
+Still a gap but less critical now. Moving to a web-based product means full control over UX (no FreeCAD "quirks all the way down"). The chat interface, SVG viewport, layer controls, and approval modal are all custom-built. But nobody on the team is thinking about product design full-time — and Cursor won partly on polish.
 
 ### 3. Domain Expertise is Narrow
 
@@ -60,7 +54,7 @@ Bitpulse and tinydot.ai are not household names. Doesn't mean you can't succeed,
 
 ### 6. Bus Factor of One
 
-The GitHub shows one technical contributor (Luka) with a free-tier GitHub org (1 seat). For a fork of a massive C++ project, this is a bus-factor-of-one situation. If Luka burns out, gets sick, or gets stuck on a hard FreeCAD core bug, the entire project stalls. Otar and Nikoloz cannot contribute to the codebase.
+Still one technical contributor (Luka). But the risk profile has changed: the stack is now Python/Flask/ezdxf — standard web dev, not a 45K-commit C++ fork. If Luka gets stuck, another Python developer could realistically pick up the codebase. Still a real gap — Otar and Nikoloz cannot contribute to code.
 
 ### 7. Claude Code Dependency
 
@@ -82,7 +76,7 @@ Otar's background is in business, but building a developer/engineering tools com
 
 | Gap | What's Needed | Priority |
 |-----|---------------|----------|
-| C++/CAD engineering | Co-founder or senior hire who knows OpenCASCADE, Qt, computational geometry | Critical |
+| ~~C++/CAD engineering~~ | ~~Co-founder or senior hire who knows OpenCASCADE, Qt, computational geometry~~ | ~~Critical~~ — Resolved by moving to web stack |
 | Product/UX design | Designer who can make the AI interaction feel magical, not bolted-on | High |
 | Mechanical engineering domain | Advisor from mainstream mech-E (not just construction) to validate PMF | High |
 | Community building | Someone to build contributor community (FreeCAD forum, YouTube, Discord) | Medium |
@@ -108,6 +102,6 @@ These are real, not just copium:
 
 1. **Immediately**: Ship with Claude Code — it works, don't abstract prematurely. Revisit model-agnostic architecture once there's revenue and a clear need.
 2. **Within 1 month**: Ship a public demo video — traction > pedigree for early fundraising
-3. **Within 3 months**: Find a C++/CAD technical co-founder or contractor (FreeCAD forum is the best recruiting ground)
+3. ~~**Within 3 months**: Find a C++/CAD technical co-founder or contractor~~ — No longer needed after move to web-based stack
 4. **For fundraising**: Lead with Nikoloz's precast association as proof of commercial demand, not just the technology
 5. **First revenue**: Deploy Buildable at Georgian Precast Association member companies — real users, real feedback, real case studies

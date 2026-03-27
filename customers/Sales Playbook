@@ -1,0 +1,136 @@
+
+# Buildable Sales Playbook
+
+## The Big Picture
+
+You're currently in the most critical and most dangerous phase of B2B sales — the design partnership / free pilot zone. The YC framework is clear: most founders get stuck here for months with no revenue. Your job is to move through these stages deliberately, doing things that don't scale — that's the right choice at this stage for building a strong foundation.
+
+***
+
+## Stage 1: Where You Are Now — Design Partnership (Elcrete)
+
+Elcrete is your first real customer. By YC's definition, this is a design partnership — you're sitting inside their office, observing, testing on real projects. This is correct and necessary. In precast engineering, where a single warehouse project takes 1–2 months from start to finish, the realistic timeline to close Elcrete as a paying customer is **8–12 weeks**, not days. The danger isn't the timeline — it's not setting a hard deadline with Giorgi at all.
+
+**The trap to avoid:** Elcrete giving you a list of features to build forever while paying nothing. The stealth pilot strategy (use Buildable on real tasks → reveal after senior engineer approves) is smart — you're creating internal proof before asking for money.
+
+**The moment the senior engineer approves a Buildable drawing = your proof moment.** That's when you transition to a paid pilot conversation.
+
+**What to ask Giorgi Beradze after pilot success:**
+> *"If this saves your team 50% of drawing time across 2 simultaneous projects — what does that look like in cost saved per month?"*
+
+Then use the value equation.
+
+***
+
+## The Value Equation (Your Most Important Tool)
+
+Always price as a % of value delivered, never based on cost.
+
+Here's Buildable's value equation built from validated Elcrete data:
+
+| Item | Numbers |
+|---|---|
+| Team cost/month | ~13,650 GEL |
+| **Drawing time = 80% of total project time** | **Validated by Elcrete engineers** |
+| Of that: 80% detailing/shop drawings, 20% general | Validated by Elcrete engineers |
+| Calculations & 3D models = 20% of project time | Validated by Elcrete engineers |
+| Monthly revenue (2 simultaneous projects) | ~71,500 GEL |
+| **Buildable target price** | **7,000–8,000 GEL/month** |
+
+The 7,000–8,000 GEL figure is derived from Buildable's own calculations based on revenue and time data provided by Giorgi — not from Giorgi's pricing opinion. This is a hypothesis to be validated. **The next step is asking Giorgi what price makes sense to him before setting a final number.**
+
+The 7,000–8,000 GEL represents less than **11% of monthly project revenue** — easy to justify.
+
+**The line to use with Giorgi:**
+> *"Your team handles two projects simultaneously at ~71,500 GEL each. Buildable costs less than 6% of that. If it eliminates 80% of detailing drawing time for your junior and middle engineers, it pays for itself in the first week."*
+
+***
+
+## Stage 2: Free Pilot → Paid Pilot
+
+After the stealth pilot succeeds, move to a structured free pilot with defined success metrics — then immediately propose a paid pilot.
+
+**Success metrics to define upfront:**
+1. Drawing generation time: target under 5 minutes vs. 30+ manually
+2. Accuracy rate: target 80%+ on first generation
+3. Revision cycles: target 1–2 text revisions vs. 3–4 manual redraws
+4. Engineer adoption: does the middle/junior engineer use it voluntarily?
+
+**Free pilot duration: 2 weeks maximum.**
+Cadence: weekly structured check-in + async Telegram/WhatsApp thread for daily questions. Don't show up daily — senior engineers have real projects to deliver and unsolicited interruptions create resistance.
+
+**Transition to paid pilot — how to say it:**
+> *"We've proven the tool works on your real drawings. The next step is a 30-day paid trial — 3,000 GEL — so we can formally measure impact and I can prioritize your team's feature requests. If it doesn't deliver, full refund, no questions."*
+
+Why 3,000 GEL for the pilot? It's low enough to be a single decision-maker call — no finance committee, no board approval needed.
+
+***
+
+## Stage 3: The Pro Move — Recurring Contract with Opt-Out
+
+Don't run a paid pilot and then start a second negotiation for the full contract. That's two sales processes for one customer.
+
+Instead, structure it from day one:
+
+> *"We offer annual contracts at 7,000 GEL/month with a 60-day opt-out at the start. If after 60 days it's not delivering, you walk away with a full refund. Otherwise it continues automatically."*
+
+When Giorgi says yes to the pilot, he's saying yes to the contract.
+
+***
+
+## Stage 4: Metrics to Track From Day One
+
+Track **4 metrics only** — defined and agreed internally before you scale:
+
+1. **MRR (Monthly Recurring Revenue)** — primary metric, report honestly even if it's 0
+2. **Time to First Value** — how fast does an engineer produce their first completed drawing? Target: under 10 minutes from onboarding
+3. **Drawing Accuracy Rate** — % of drawings accepted without major revision on first generation
+4. **Pilot-to-Paid Conversion Rate** — how many free pilots convert to contracts
+
+**Future metric (activate at 5+ customers):**
+- **Net Dollar Retention** — are customers expanding usage and paying more over time? Target: above 110%
+
+**Don't track:** LinkedIn connections accepted, discovery calls booked, demo requests. These are vanity metrics. Revenue is the only honest signal.
+
+***
+
+## Objection Handling (Critical — Add to Every Sales Conversation)
+
+**Objection you will face on every single call:**
+> *"Structural drawings need to be 100% accurate. 80% isn't good enough for a load-bearing structure."*
+
+**Your answer:**
+> *"You're exactly right — and that's by design. Buildable doesn't replace the engineer's judgment, it eliminates the manual drafting work. Every output is reviewed and approved by a licensed engineer before it's used. We remove 80% of the repetitive drawing time — the engineering responsibility stays entirely with your team."*
+
+This answer works because it's true and it reframes accuracy as a process question, not a product limitation.
+
+***
+
+## Pricing Rules (Non-Negotiable)
+
+1. **Never start from cost** — your compute bill is irrelevant to what Buildable charges
+2. **Never publish a price on your website** — value equation differs per firm
+3. **Price based on company size and geography** — not sequentially. Ingenium (Uruguay, smaller firm) and Elcrete (Georgia, established company) will pay different amounts for logical, defensible reasons. PCI members talk to each other — sequential pricing without a rationale creates trust problems
+4. **Lose 25% of deals on price = you're in the right range** (YC rule)
+5. **Annual contracts over monthly** — protects revenue during slow project months
+6. **One price, no tiers** — until you have 10+ paying customers
+
+***
+
+## The PCI / International Outreach Pipeline
+
+| Contact | Stage | Next Action |
+|---|---|---|
+| Elcrete / Giorgi | Design partnership → paid pilot | Complete stealth pilot Monday, propose paid terms after approval |
+| Francisco Pons / Ingenium | Discovery + potential design partner | Post-call: qualify problem fit, set follow-up with engineer |
+| Navendu Rai | Discovery | Schedule call, extract manufacturing-side pain points |
+| Seth McVey (Q Structures) | Cold discovery | Best US target — owns firm, uses AutoCAD, time-scarce |
+| Mehedi Rashid | Cold discovery | Highest value — has seen both sides of precast workflow |
+| Travis Green (WJE) | Cold discovery | Forensic angle — drawing errors = structural failures downstream |
+| Sami, Philip, Frank | Cold discovery | Bridge-focused — lower priority for core building precast product |
+
+***
+
+## The One Line to Remember
+
+The first two or three sales are the hardest you'll ever do. Elcrete is your one. Ingenium could be your two. Get them closed — everything else gets easier from there.

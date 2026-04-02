@@ -14,7 +14,7 @@
 | 1 | 12/03 | Elcrete | Giorgi |Junior Engineer | | AutoCAD; Revit | 2months per project | 0 | მასალების უწყისი; Review | Dunno | MVP testing |
 | 2 | 12/03 | Elcrete | Nikusha | Middle Engineer | | AutoCAD; Revit | 1month per project | 0 | Detailing, specifically armireba| 100% | MVP testing |
 | 3 | 12/03 | Elcrete | Zura | Senior Engineer | | Inventory | 2,5 months per project | 0 | detailing; 3D model | yes | Nothing-Monolith engineer |
-| 4 | | | | | | | | | | | |
+| 4 | 2/04 | Ingenium | Francisco's team | Modeling lead | 37 | Unkown | Unkown | unkown | BIM compliance | 100% | Notify after their concers solved |
 | 5 | | | | | | | | | | | |
 | 6 | | | | | | | | | | | |
 | 7 | | | | | | | | | | | |
@@ -52,3 +52,10 @@
 - Average: TBD
 *They are not paying for Software's and are using cracked AutoCAD & Revit.*
 
+### Francisco / Ingenium Uruguay feedback — key takeaway
+
+- They liked the current capability, so the base product is solid and promising.
+- Their mindset is clearly BIM-first, not prompt-first.
+- Biggest requests: model-first workflow; IFC export; standard 3D rebar objects; measurement tool in 3D viewer; better corbel reinforcement presets; one-source-of-truth data flowing into both model and sheets.
+- This is a strong signal that serious precast firms want BIM-native AI, not just drawing generation. So their feedback validated our roadmap and vision for future development 
+- Next step: text them when we will implement their requests

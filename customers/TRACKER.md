@@ -1,8 +1,8 @@
 # Customer Interview Tracker
 
 ## Summary Stats
-- **Total interviews:**  4/ 10
-- **Companies contacted:** 1
+- **Total interviews:**  5/ 10
+- **Companies contacted:** 3
 - **Most common tool:** AutoCAD; Revit. 
 - **Most common pain point:** 2D detalization drawings; revision. 
 - **Average drawing time per project:** 1-2 months. 
@@ -15,7 +15,7 @@
 | 2 | 12/03 | Elcrete | Nikusha | Middle Engineer | | AutoCAD; Revit | 1month per project | 0 | Detailing, specifically armireba| 100% | MVP testing |
 | 3 | 12/03 | Elcrete | Zura | Senior Engineer | | Inventory | 2,5 months per project | 0 | detailing; 3D model | yes | Nothing-Monolith engineer |
 | 4 | 2/04 | Ingenium | Francisco's team | Modeling lead | 37 | Unkown | Unkown | unkown | BIM compliance | 100% | Notify after their concers solved |
-| 5 | | | | | | | | | | | |
+| 5 | 3/04 | Mega Holding | Aleko Comaia | Senior engineer | 1 Georgia/25 Italy | Revit, Idat | fastest we have seen | 2500 euro | speed | 100% | after elcrete |
 | 6 | | | | | | | | | | | |
 | 7 | | | | | | | | | | | |
 | 8 | | | | | | | | | | | |
@@ -30,11 +30,15 @@
 > "Generally in Europe 3-5% of whole project's budget goes to desinging, in Georgia 2-3%.* - Giorgi Beradze, Element Construction; 9/03/2026
 > "80-90 Detailing drawing per project; 20% General vs 80% Detailing, 20% Sayalibe vs 80% Armireba; - Nika Bidzinashvili, Elcrete, 12/03/2026
 > "5-10 minutes per drawing for reviewing; review is done manually on every level; +comparing 3D to 2D model sizes." - Nika & Giorgi, Elcrete, 12/03/2026
+> "I tested Allplan, but it is fully different platform, complex and hard to learn and use it for my projects". - Aleko Comaia, Mega Holding, 3/04/2026
+
 
 > "..." — [Name], [Company], [Date]
 
 ## Patterns
 *Update as patterns emerge across interviews.*
+*unlike Elcrete other companies are first creating 3D model and do detalization in 3D model, so their 2D drawings craetion process is partially automated, but not 100% as it still needs changes and checks. 
+*
 
 ### Pain Points (ranked by frequency)
 1. 2D drawings, especially Armireba Detailing ones.
@@ -45,6 +49,7 @@
 ### Current Tools
 1. AutoCAD
 2. Revit
+3. Revit plugin Idat
 
 ### Budget Range
 - Low: TBD

@@ -471,6 +471,69 @@ Nobody will pay for "CAD but slightly better." They will pay for "I described my
 | **Repetitive, rules-based work** | Template-driven drawings, standardized detailing rules. Perfect for AI automation. |
 | **High switching costs** | Once a company's element library is in Buildable, migration is extremely painful. |
 
+## Market Size & TAM Analysis of AEC software and precast software
+
+### Why There's No Official "Precast Software" Market Figure
+
+Precast structural design software is not tracked as a standalone category by
+market research firms. It sits nested inside broader categories: AEC software →
+structural engineering software → concrete design software → precast design
+and drawing automation. This means we must construct our own TAM estimate from
+the layers below.
+
+### The Market Stack
+
+| Market                              | Size (2025–2026) | Growth Rate        |
+|-------------------------------------|------------------|--------------------|
+| Precast construction industry       | ~$150B           | 5.3–5.8% CAGR      |
+| AEC software (all types)            | $12.04B          | 8.35% CAGR to 2031 |
+| Structural engineering software     | $7.54B           | 5.4% CAGR to 2035  |
+| Construction design software        | $10.2B           | 9.0% CAGR to 2034  |
+| Concrete design software            | No exact figure  | 8.5–9.1% CAGR      |
+| **Precast design/drawing software** | **No published figure** | **Estimable only** |
+
+North America is the largest region in AEC software at **40%+ of total global
+revenue**, and Asia Pacific is the fastest growing.
+
+### Our Estimated TAM — How We Build the Number
+
+**Step 1:** Structural engineering software = ~$7.5B globally.
+
+**Step 2:** Precast concrete represents roughly 15–25% of all structural
+engineering design work globally — covering industrial buildings, bridges,
+parking structures, housing blocks, and infrastructure. This is a significantly
+larger share than precast's ~1.1% of total construction by value, because
+precast is design-intensive by nature.
+
+**Step 3:** 15–20% of $7.5B structural engineering software = **~$1.1B–$1.5B**
+for the full precast software segment globally (plant automation, ERP, CAD, BIM,
+drawing tools combined).
+
+**Step 4:** Buildable targets specifically the structural design and drawing
+automation subset — not plant management, ERP, or scheduling. That represents
+conservatively 30–40% of the precast software pie.
+
+**→ Estimated addressable market for precast design/drawing software:
+$330M–$600M globally today, growing at ~9% per year.**
+
+### What This Means for Buildable
+
+**1. Pitch the software market, not the construction industry market.**
+Using the $150B precast construction figure as our TAM is incorrect and
+investors will call it out immediately. The honest and defensible framing is:
+
+> "The structural engineering software market is $7.5B globally. The precast
+> design and drawing automation subset — our specific segment — we estimate at
+> $330M–$600M today, growing at ~9% annually."
+
+**2. The size is not a problem — the concentration and growth rate are what
+matter.**
+A $400M niche growing at ~9% annually, with 40%+ of revenue concentrated in
+North America where willingness to pay for engineering software is highest, is
+an extremely attractive vertical SaaS market. We do not need a $1B+ market to
+build a $10–50M ARR company inside it. Vertical SaaS businesses consistently
+capture dominant positions in niches of exactly this size.
+
 ---
 
 ## 8. Georgia as a Launchpad

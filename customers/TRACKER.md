@@ -1,8 +1,8 @@
 # Customer Interview Tracker
 
 ## Summary Stats
-- **Total interviews:**  5/ 10
-- **Companies contacted:** 3
+- **Total interviews:**  6/ 10
+- **Companies contacted:** 4
 - **Most common tool:** AutoCAD; Revit. 
 - **Most common pain point:** 2D detalization drawings; revision. 
 - **Average drawing time per project:** 1-2 months. 
@@ -16,7 +16,7 @@
 | 3 | 12/03 | Elcrete | Zura | Senior Engineer | | Inventory | 2,5 months per project | 0 | detailing; 3D model | yes | Nothing-Monolith engineer |
 | 4 | 2/04 | Ingenium | Francisco's team | Modeling lead | 37 | Unkown | Unkown | unkown | BIM compliance | 100% | Notify after their concers solved |
 | 5 | 3/04 | Mega Holding | Aleko Comaia | Senior engineer | 1 Georgia/25 Italy | Revit, Idat | fastest we have seen | 2500 euro | speed | 100% | after elcrete |
-| 6 | | | | | | | | | | | |
+| 6 | 30/04 | Coreslab Kansas | Terry Fleck | Engineering manager | 2 detailers | None | | | Outsourcing>in-house | 0% | Get referral to Coreslab colleagues |
 | 7 | | | | | | | | | | | |
 | 8 | | | | | | | | | | | |
 | 9 | | | | | | | | | | | |

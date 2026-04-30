@@ -43,6 +43,7 @@
 
 ## Pricing
 Subscription based model: ~€7,400–8,500/seat/year
+Offer made for Elcrete: Implementation&trainings - 12,800 euro and 1 year license 9900 euro for whole company. 
 
 ## Could They Pivot to AI Text-to-CAD?
 Unlikely short-term. Their moat is the installed base of parametric BIM workflows. Moving to prompt-based generation would cannibalize their core product and alienate existing customers. They are adding AI for validation and checking (Precast Data Validator, Firmus AI acquisition) — not for generation.

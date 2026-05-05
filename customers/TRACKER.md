@@ -1,8 +1,8 @@
 # Customer Interview Tracker
 
 ## Summary Stats
-- **Total interviews:**  6/ 10
-- **Companies contacted:** 4
+- **Total interviews:**  7/ 10
+- **Companies contacted:** 5
 - **Most common tool:** AutoCAD; Revit. 
 - **Most common pain point:** 2D detalization drawings; revision. 
 - **Average drawing time per project:** 1-2 months. 
@@ -17,7 +17,7 @@
 | 4 | 2/04 | Ingenium | Francisco's team | Modeling lead | 37 | Unkown | Unkown | unkown | BIM compliance | 100% | Notify after their concers solved |
 | 5 | 3/04 | Mega Holding | Aleko Comaia | Senior engineer | 1 Georgia/25 Italy | Revit, Idat | fastest we have seen | 2500 euro | speed | 100% | after elcrete |
 | 6 | 30/04 | Coreslab Kansas | Terry Fleck | Engineering manager | 2 detailers | None | | | Outsourcing>in-house | 0% | Get referral to Coreslab colleagues |
-| 7 | | | | | | | | | | | |
+| 7 | 5/05 | Tindal | Ali | structural engineer | 20 drafters, 10 engineers | | 5 months designing, 1 month building | - | designing connections | maybe | text |
 | 8 | | | | | | | | | | | |
 | 9 | | | | | | | | | | | |
 | 10 | | | | | | | | | | | |
@@ -31,17 +31,19 @@
 > "80-90 Detailing drawing per project; 20% General vs 80% Detailing, 20% Sayalibe vs 80% Armireba; - Nika Bidzinashvili, Elcrete, 12/03/2026
 > "5-10 minutes per drawing for reviewing; review is done manually on every level; +comparing 3D to 2D model sizes." - Nika & Giorgi, Elcrete, 12/03/2026
 > "I tested Allplan, but it is fully different platform, complex and hard to learn and use it for my projects". - Aleko Comaia, Mega Holding, 3/04/2026
+> "I am working here for 3 years and we have not used/integrated any new program or AI tool into our work, also have not tested or used AI for my personal work." - Ali Shokrgozar, Tindal, 5/05/2026
+> "Engineers like me do calculations, make decisions and send docs to drafters, who do 2D drawings (they do 10-15-20 drawings per day) and lastly we check&approve drafters work." - ALi Shokrgozar, Tindal, 
 
 
 > "..." — [Name], [Company], [Date]
 
 ## Patterns
 *Update as patterns emerge across interviews.*
-*unlike Elcrete other companies are first creating 3D model and do detalization in 3D model, so their 2D drawings craetion process is partially automated, but not 100% as it still needs changes and checks. 
-*
+*unlike Elcrete other companies are first creating 3D model and do detalization in 3D model, so their 2D drawings craetion process is partially automated, but not 100% as it still needs changes and checks*.
+*Big companies like Tindal have in-house teams for every process and don't outsource their work often. Small/medium precast companies are outsourcing their detailing job partly or 100% as it is more beneficial for them*.
 
 ### Pain Points (ranked by frequency)
-1. 2D drawings, especially Armireba Detailing ones.
+1. 2D drawings, especially reinforcment Detailing ones.
 2. Review and checking of drawings, tables and numbers. 
 3. 3D model creation
 4. Manufacturing automation 
@@ -50,6 +52,8 @@
 1. AutoCAD
 2. Revit
 3. Revit plugin Idat
+4. Allplan precast
+5. Tekla structures
 
 ### Budget Range
 - Low: TBD
